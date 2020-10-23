@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block title %}
+  Archives {{ super() }}
+{% endblock %}
+
+{% block page_header %}
+  Archives
+{% endblock %}
+
+{% import 'helper.html' as helper %}
+
+{% block content %}
+  <dl class="row">
+    {% for article in dates %}
+      <dt class="col-sm-2">{{ article.locale_date }}</dt>
+      <dd class="col-sm-10"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }} <i class="{{ helper.fa_category(article.category) }}"></i>{% if article.link %} <i class="fas fa-link"></i>{% endif %}</a></dd>
+    {% endfor %}
+  </dl>
+{% endblock %}

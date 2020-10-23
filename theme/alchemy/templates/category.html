@@ -1,0 +1,10 @@
+{% extends "index.html" %}
+
+{% block title %}
+  {{ category }}s | {{ SITENAME }}
+{% endblock %}
+
+{% import 'helper.html' as helper %}
+{% block page_header %}
+  <i class="{{ helper.fa_category(category) }}"></i> {{ category }}s
+{% endblock %}

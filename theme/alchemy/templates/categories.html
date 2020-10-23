@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block title %}
+  Catégories {{ super() }}
+{% endblock %}
+
+{% block page_header %}
+  Par catégories:
+{% endblock %}
+{% import 'helper.html' as helper %}
+{% block content %}
+  <table class="table table-bordered table-striped">
+    {% for category, articles in categories|sort %}
+      <tr>
+        <td><a href="{{ SITEURL }}/{{ category.url }}"><i class="{{ helper.fa_category(category) }}"></i> {{ category }}</a></td>
+        <td>{{ articles|count }}</td>
+      </tr>
+    {% endfor %}
+  </table>
+{% endblock %}

@@ -1,0 +1,14 @@
+{%- macro fa_category(icon) -%}
+{%- set fa_category_icons = {
+  "dessert": "fas fa-birthday-cake",
+  "plat": "fas fa-fish",
+  "pain": "fas fa-bread-slice",
+  "soupe": "fas fa-carrot",
+  "apero": "fas fa-glass-cheers",
+} -%}
+{%- if icon in fa_category_icons -%}
+{{ fa_category_icons[icon] }}
+{%- else -%}
+fas fa-utensils
+{%- endif -%}
+{%- endmacro -%}
