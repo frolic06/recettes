@@ -4,7 +4,7 @@ Tags: apéro, facile, rapide
 Summary: Recette de dip à la betterave (facile, rapide)
 
 ## Ingrédients
-- 3 bettraves
+- 3 betteraves
 - 1 gousses d'ail écrasée
 - 200 g de yaourt
 - 2 c à c jus de citron
