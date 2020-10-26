@@ -1,6 +1,7 @@
 Title: Muffin choco-banane
 Tags: dessert, chocolat, banane
 Date:  2020-10-26 17:42
+Summary: Pratique pour utiliser les bananes trop mûres...
 
 Préparation 10 minutes
 Cuisson 25 minutes

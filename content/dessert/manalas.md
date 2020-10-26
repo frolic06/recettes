@@ -2,6 +2,7 @@ Title: Manalas
 Category: Dessert
 Tags: dessert, facile, alsacien
 Summary: Petits bonshommes briochés que l'on trouve en Alsace pour la Saint Nicolas !
+Image: /images/manalas.jpg
 
 - Préparation : 1 h 30
 - Cuisson : 25 min

@@ -2,6 +2,7 @@ Title: Houmous
 Category: Apéro
 Tags: apéro, houmous, libanais, facile
 Summary: L'houmous traditionnel
+Image: /images/houmous.jpg
 
 ## Ingrédients
 - 1 petite boîte de pois chiche (400 g)
