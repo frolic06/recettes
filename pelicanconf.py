@@ -32,10 +32,6 @@ LINKS = (
     ("Marmiton", "http://marmiton.org/"),
     ("Je vais vous cuisiner", "https://jevaisvouscuisiner.com/"),
 )
-#LINKS = (('Pelican', 'https://getpelican.com/'),
-#         ('Python.org', 'https://www.python.org/'),
-#         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-#         ('You can modify those links in your config file', '#'),)
 
 # Social widget
 SOCIAL = ()
@@ -47,8 +43,9 @@ DEFAULT_PAGINATION = 10
 # Dates of articles from the file modification
 DEFAULT_DATE = "fs"
 
-DEFAULT_DATE_FORMAT = "%d %b %Y" # "%A %d %B %Y"
+DEFAULT_DATE_FORMAT = "%d %b %Y"
 
+USE_FOLDER_AS_CATEGORY = True
 DEFAULT_CATEGORY = "Recette"
 
 # Uncomment following line if you want document-relative URLs when developing

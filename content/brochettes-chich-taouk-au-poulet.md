@@ -2,6 +2,7 @@ Title: Poulet Chich taouk
 Category: Plat
 Tags: plat, poulet, libanais
 Summary: Le poulet mariné au citron, aussi bon qu'au resto libanais !
+Date:  2020-10-23 17:40
 
 Chich taouk (poulet mariné grillé, recette libanaise) 
 
