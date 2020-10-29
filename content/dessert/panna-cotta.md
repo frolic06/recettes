@@ -3,6 +3,7 @@ Category: Dessert
 Tags: dessert
 Date:  2020-10-29 13:23
 Summary: La recette de panna cotta de Karine
+Author: Karine
 Image: /images/pannacotta.jpg
 
 ## Ingrédients
