@@ -1,6 +1,6 @@
 Title: Cake aux lentilles corail
 Category: Plat
-Tags: plat, vegi, cake salé
+Tags: plat, vegi, cake salé, lentilles corail
 Summary: 
 
 ## Ingrédients

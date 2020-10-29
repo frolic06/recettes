@@ -38,7 +38,7 @@ SOCIAL = ()
 #SOCIAL = (('You can add links in your config file', '#'),
 #          ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 20
 
 # Dates of articles from the file modification
 DEFAULT_DATE = "fs"
