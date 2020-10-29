@@ -1,4 +1,5 @@
 Title: Raie aux capres 🦈🐡
+Category: Plat
 Tags: plat, poisson
 Summary: La raie, d'habitude je l'a mets de côté (hihi), mais en fait c'est facile et très bon !
 Date:  2020-10-25 17:40

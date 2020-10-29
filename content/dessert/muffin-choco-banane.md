@@ -1,4 +1,5 @@
 Title: Muffin choco-banane
+Category: Dessert
 Tags: dessert, chocolat, banane
 Date:  2020-10-26 17:42
 Summary: Pratique pour utiliser les bananes trop mûres...

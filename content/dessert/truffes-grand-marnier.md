@@ -1,4 +1,5 @@
 Title: Truffes au chocolat et au Grand Marnier
+Category: Dessert
 Tags: dessert, chocolat
 Summary: Les fameuses truffes de Noël !
 Date:  2020-10-26 17:40
