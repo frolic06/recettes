@@ -1,4 +1,4 @@
-Title: Quiche aux carootes
+Title: Quiche aux carottes
 Category: Plat
 Tags: plat, quiche
 Summary: Une quiche carotte / curry
