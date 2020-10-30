@@ -2,6 +2,7 @@ Title: Tartinade Express de Lentilles Corail
 Category: Apéro
 Tags: apéro, facile, végi, lentilles corail
 Summary: Pour garnir des sandwichs vite confectionnés, égayer un apéritif ou se faire un petit plat express
+Author: Melle Pigu
 
 Temps de préparation : 10 minutes
 Temps de cuisson : 10 à 20 minutes
