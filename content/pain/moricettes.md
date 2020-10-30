@@ -2,7 +2,7 @@ Title: Moricettes
 Category: Pain
 Tags: pain, apéro, alsacien
 Summary: Petits pains salés à garnir
-Author: Patt
+Author: Pat
 
 ## Ingrédients
 > Pour 12 moricettes.
