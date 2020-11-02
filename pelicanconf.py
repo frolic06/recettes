@@ -21,6 +21,7 @@ AUTHOR_FEED_RSS = None
 LOCALE = ('fr_FR')
 
 THEME = "theme/alchemy"
+SITEIMAGE = "images/profile.png"
 
 # THEME = "./theme/blueidea"
 DISPLAY_SEARCH_FORM = False
