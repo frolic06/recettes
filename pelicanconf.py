@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = 'Matt'
-SITENAME = 'Recettes de cuisine - par Matt'
+SITENAME = 'Recettes de cuisine par Matt'
 SITEURL = ''
 
 PATH = 'content'

@@ -1,7 +1,8 @@
-Title: Tarte à la citrouille d'Halloween
+Title: Tarte à la citrouille d'Halloween 🎃
 Category: Dessert
-Tags: dessert, potiron
+Tags: dessert, potiron, halloween
 Summary: Tarte pour Halloween
+Image: /images/tarte-citrouille.jpg
 
 ## Ingrédients
 > Pâte sucrée aux noisettes :
@@ -18,7 +19,7 @@ Summary: Tarte pour Halloween
 - 500 g de chair de potiron
 - 2 oeufs
 - 185 g de cassonade
-- 150 ml de lait (j'ai pris du entier)
+- 150 ml de lait
 - 150 g de crème fraiche
 - 1 gousse de vanille
 - 1 c à c de 4 épices
