@@ -54,3 +54,6 @@ DEFAULT_CATEGORY = "Recette"
 
 DESCRIPTION = "Mes recettes préférées à portée de main"
 WELCOME_MESSAGE = SIDEBAR_DIGEST = SITESUBTITLE = DESCRIPTION
+
+# ARTICLE_ORDER_BY = 'Title'
+# PAGE_ORDER_BY = 'Title'

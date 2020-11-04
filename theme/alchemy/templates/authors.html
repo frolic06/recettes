@@ -9,11 +9,12 @@
 {% endblock %}
 
 {% block content %}
-  <table class="table table-bordered table-striped">
+  <table class="table table-striped">
     {% for author, articles in authors|sort %}
       <tr>
-        <td><a href="{{ SITEURL }}/{{ author.url }}"><i class="fas fa-user"></i> {{ author }}</a></td>
-        <td>{{ articles|count }}</td>
+        <td style="width:8px"><a href="{{ SITEURL }}/{{ author.url }}"><i class="fas fa-user"></i></a></td>
+        <td><a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a></td>
+        <td><span class="badge badge-dark badge-pill">{{ articles|count }}</span></td>
       </tr>
     {% endfor %}
   </table>
