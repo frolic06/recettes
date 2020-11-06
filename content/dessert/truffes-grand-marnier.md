@@ -8,7 +8,8 @@ Préparation 20 minutes
 Cuisson 10 minutes
 
 ## Ingrédients
-> Pour 50 truffes 
+> Pour 50 truffes
+
 - 2 jaunes d'oeufs 
 - 100 g de beurre
 - 2 c à s de lait 

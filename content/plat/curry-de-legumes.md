@@ -3,6 +3,7 @@ Category: Plat
 Tags: plat, vegi, thailandais
 Summary: Curry thaïlandais, crémeux et riche en parfum, à servir avec un riz basmati 🍚
 Date:  2020-11-04 17:44
+Image: /images/curry-de-legumes.jpg
 
 - Préparation : 20 min
 - Cuisson : 20 min

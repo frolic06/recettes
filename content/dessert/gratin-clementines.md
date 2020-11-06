@@ -1,6 +1,7 @@
 Title: Gratin de clémentines à la fleur d'oranger
 Category: Dessert
 Tags: dessert, clémentine, facile
+Summary: Un dessert léger avec des clémentines 🍊
 Date:  2020-11-06 12:42
 Author: Gazou
 Image: /images/gratin-clementines.jpg
