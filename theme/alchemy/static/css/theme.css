@@ -112,6 +112,9 @@ hr {
     font-size: 1.8rem;
   }
 
+  .index-image {
+    max-height: 100px;
+  }
 
   .teaser header li {
     display: inline-block;
