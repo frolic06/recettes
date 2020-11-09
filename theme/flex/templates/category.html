@@ -1,0 +1,12 @@
+{% extends "index.html" %}
+{% block title %} {{ category }}s {% endblock %}
+{% set summarise = True %}
+
+{% import 'partial/helper.html' as helper %}
+{% block page_header %}
+<article>
+    <header>
+        <h1><i class="{{ helper.fa_category(category) }}"></i> {{ category }}s</h1>
+    </header>
+</article>
+{% endblock %}

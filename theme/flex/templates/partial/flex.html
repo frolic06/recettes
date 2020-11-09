@@ -1,0 +1,22 @@
+<p>
+{{
+  _('Généré par %(pelican_url)s avec le thème %(flex_url)s',
+    pelican_url='<a href="http://getpelican.com" target="_blank">Pelican</a>',
+    flex_url='<a href="http://bit.ly/flex-pelican" target="_blank">Flex</a>'|safe)
+}}
+{% if THEME_COLOR_ENABLE_USER_OVERRIDE %}
+  <span class="footer-separator">|</span>
+  {{
+    _('Passer au thème %(dark_url)s | %(light_url)s | %(browser_url)s',
+      dark_url='<a href="javascript:void(0)" onclick="theme.switch(`dark`)">foncé</a>',
+      light_url='<a href="javascript:void(0)" onclick="theme.switch(`light`)">clair</a>',
+      browser_url='<a href="javascript:void(0)" onclick="theme.switch(`browser`)">navigateur</a>'|safe)
+  }}
+  <script id="dark-theme-script"
+          src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/dark-theme/dark-theme.min.js"
+          data-enable-auto-detect-theme="{{ THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE|default('false') }}"
+          data-default-theme="{{ THEME_COLOR|default('light') }}"
+          type="text/javascript">
+  </script>
+{% endif %}
+</p>
