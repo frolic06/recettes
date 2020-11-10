@@ -1,0 +1,13 @@
+aside nav ul li {
+    font-size: 1em;
+}
+
+hr {
+    margin-bottom: 0px;
+}
+
+.index-image {
+    max-height: 100px;
+    border-radius: 8px;
+}
+  

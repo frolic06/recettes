@@ -1,9 +1,27 @@
 {% extends "base.html" %}
 
+{% block title %}Les recettes{% endblock %}
+
 {% block page_header %}{% endblock %}
 {% block content %}
 
 {% for article in articles_page.object_list %}
+
+<!-- <div class="container">
+  {% if  article.image %}
+  <a href="{{ SITEURL }}/{{ article.url }}{% if not DISABLE_URL_HASH %}#{{ article.slug }}{% endif %}">
+    <img src="{{ article.image }}" style="width:100%;">
+  </a>
+  {% endif %}
+  <div class="content">
+    <h2><a href="{{ SITEURL }}/{{ article.url }}{% if not DISABLE_URL_HASH %}#{{ article.slug }}{% endif %}">{{ article.title }}</a></h2>
+    <p>{{ article.summary }}</p>
+  </div>
+</div>
+{% if not loop.last %}
+<hr />
+{% endif %} -->
+
 <article>
   <header>
     <h2><a href="{{ SITEURL }}/{{ article.url }}{% if not DISABLE_URL_HASH %}#{{ article.slug }}{% endif %}">{{ article.title }}</a></h2>
@@ -26,18 +44,14 @@
     </p>
   </header>
   <div>
+
     {% if summarise or article.metadata['summary'] or SUMMARY_MAX_LENGTH %}
       {% if  article.image %}
-        <img src="{{ article.image }}">
+      <a href="{{ SITEURL }}/{{ article.url }}{% if not DISABLE_URL_HASH %}#{{ article.slug }}{% endif %}">
+        <img class="index-image" src="{{ article.image }}">
+      </a>
       {% endif %}
       {{ article.summary }}
-      <!-- {% if article.content != article.summary %}
-        <br>
-        <a class="btn"
-           href="{{ SITEURL }}/{{ article.url }}{% if not DISABLE_URL_HASH %}#{{ article.slug }}{% endif %}">
-          {{ _('Continue reading') }}
-        </a>
-      {% endif %} -->
     {% else %}
       {{ article.content }}
     {% endif %}
@@ -46,6 +60,7 @@
   <hr />
   {% endif %}
 </article>
+
 {% endfor %}
 
 {% include "partial/pagination.html" %}
