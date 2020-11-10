@@ -24,6 +24,9 @@
           <li>
             <i class="{{ helper.fa_category(article.category) }}"></i>
             <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
+            {% for subcategory in article.subcategories %}
+              <span><a href="{{ SITEURL }}/{{ subcategory.url }}">({{ subcategory.shortname }})</a></span>
+            {% endfor %}
           </li>
           {% if not HIDE_AUTHORS and article.authors %}
             <li>

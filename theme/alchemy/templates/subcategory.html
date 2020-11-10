@@ -1,0 +1,10 @@
+{% extends "index.html" %}
+
+{% block title %}
+  {{ subcategory }} | {{ SITENAME }}
+{% endblock %}
+
+{% import 'helper.html' as helper %}
+{% block page_header %}
+<a href="{{ SITEURL }}/{{ subcategory.parent.url }}"><i class="{{ helper.fa_category(subcategory.parent) }}"></i> {{ subcategory.parent }}</a> / {{ subcategory.shortname }}
+{% endblock %}

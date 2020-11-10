@@ -8,3 +8,16 @@
 {% block page_header %}
   <i class="{{ helper.fa_category(category) }}"></i> {{ category }}s
 {% endblock %}
+{% block subcategory %}
+  {% set sub = [] %}
+  {% for article in articles_page.object_list %}
+    {% for subcategory in article.subcategories %}
+      {% if not subcategory in sub %}
+        {% set t = sub.append(subcategory) %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+  {% for s in sub %}
+    <span><a href="{{ SITEURL }}/{{ s.url }}">{{ s.shortname }}</a></span>
+  {% endfor %}
+{% endblock %}
