@@ -1,0 +1,11 @@
+{% extends "index.html" %}
+{% block title %} {{ author }}{% endblock %}
+{% set summarise = True %}
+
+{% block page_header %}
+<article>
+    <header>
+        <h1>Les recettes de {{ author }}</h1>
+    </header>
+</article>
+{% endblock %}

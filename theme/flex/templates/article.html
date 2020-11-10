@@ -1,0 +1,77 @@
+{% extends "base.html" %}
+
+{% block meta %}
+<meta name="author" content="{{ article.author.name }}" />
+<meta name="description" content="{{ article.summary|striptags|escape }}" />
+<meta name="keywords" content="{{ article.tags|join(', ')|escape }}">
+
+{% if article.translations -%}
+<link rel="alternate" href="{{ SITEURL }}/{{ article.url }}" hreflang="{{ article.lang }}" />
+{% for a in article.translations %}
+<link rel="alternate" href="{{ SITEURL }}/{{ a.url }}" hreflang="{{ a.lang }}" />
+{% endfor %}
+{% endif %}
+
+{% include "partial/og_article.html" %}
+{% endblock %}
+
+{% block title %}{{ article.title|striptags|escape }}{% endblock %}
+
+{% import 'partial/helper.html' as helper %}
+{% block content %}
+<article class="single">
+  <header>
+    {% if not ARTICLE_HIDE_TRANSLATION %}
+      {% import 'partial/translations.html' as translations with context %}
+      {{ translations.translations_for(article) }}
+    {% endif %}
+    <h1 id="{{ article.slug }}">{{ article.title }}</h1>
+    <p>
+      {{ _('%(category)s de %(author)s publié le %(when)s',
+           when=article.locale_date,
+           category='<a href="%s/%s">%s</a>'|format(SITEURL, article.category.url, article.category)|safe,
+           author='<a href="%s/%s">%s</a>'|format(SITEURL, article.author.url, article.author)|safe) }}
+
+      {% if PLUGINS and 'post_stats' in PLUGINS %}
+        &#8226; {{ _('%(minutes)s min read', minutes=article.stats['read_mins']) }}
+      {% endif %}
+    </p>
+  </header>
+
+  <div class="tag-cloud">
+    <p>
+      {% if article.tags %}
+      {% for tag in article.tags %}
+      <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
+      {% endfor %}
+      {% endif %}
+    </p>
+  </div>
+
+  <div>
+    {% if article.image %}
+    <img class="article-image img-fluid rounded" alt="article header image" itemprop="image"
+        src="{{ article.image }}" />
+    {% endif %}
+  </div>
+  <div>
+    {{ article.content }}
+  </div>
+
+  {% include "partial/neighbors.html" %}
+
+  {% if article.related_posts %}
+  <div class="related-posts">
+    <h4>{{ _('You might enjoy') }}</h4>
+    <ul class="related-posts">
+    {% for related_post in article.related_posts %}
+      <li><a href="{{ SITEURL }}/{{ related_post.url }}">{{ related_post.title }}</a></li>
+    {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {% include "partial/disqus.html" %}
+  {% include "partial/isso.html" %}
+</article>
+{% endblock %}
