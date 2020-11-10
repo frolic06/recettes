@@ -32,7 +32,12 @@
         {% endif %}
         <li class="list-inline-item">
           <a href="{{ SITEURL }}/{{ article.category.url }}"><i class="{{ helper.fa_category(article.category) }}"></i> {{ article.category }}</a>
-        </li>        
+        </li>
+        {% for subcategory in article.subcategories %}
+        <li class="list-inline-item">
+            <a href="{{ SITEURL }}/{{ subcategory.url }}">({{ subcategory.shortname }})</a>
+        </li>
+        {% endfor %}
         {% if article.tags %}
           <li class="list-inline-item">
             {% for tag in article.tags %}
