@@ -1,7 +1,8 @@
 Title: Gâteau au yaourt
-Category: Dessert
+Category: Dessert/Gateaux
 Tags: dessert, gateau, facile
 Summary: Le gâteau au yaourt, facile et rapide à faire
+Date:  2020-10-23 12:43
 
 Recette pour gâteau au yaourt, un classique inratable, rapide et léger ! Pratique aussi si vous n'avez ni verre doseur ni balance, il suffit d'un yaourt et son pot vide fera l'outil de mesure !
 

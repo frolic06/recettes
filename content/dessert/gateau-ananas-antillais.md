@@ -1,7 +1,8 @@
 Title: Gâteau à l'ananas antillais selon Tatie Maryse
-Category: Dessert
+Category: Dessert/Gateaux
 Tags: dessert, gateau, ananas, moyen
 Summary: Gâteau à l'ananas très léger (avec les blancs en neige) et parfumé au rhum
+Date:  2020-10-23 12:46
 
 Gâteau à l'ananas antillais très léger
 

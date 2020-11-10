@@ -3,34 +3,21 @@
 {% block title %}Les recettes{% endblock %}
 
 {% block page_header %}{% endblock %}
+{% block subcategory %}{% endblock %}
 {% block content %}
 
 {% for article in articles_page.object_list %}
-
-<!-- <div class="container">
-  {% if  article.image %}
-  <a href="{{ SITEURL }}/{{ article.url }}{% if not DISABLE_URL_HASH %}#{{ article.slug }}{% endif %}">
-    <img src="{{ article.image }}" style="width:100%;">
-  </a>
-  {% endif %}
-  <div class="content">
-    <h2><a href="{{ SITEURL }}/{{ article.url }}{% if not DISABLE_URL_HASH %}#{{ article.slug }}{% endif %}">{{ article.title }}</a></h2>
-    <p>{{ article.summary }}</p>
-  </div>
-</div>
-{% if not loop.last %}
-<hr />
-{% endif %} -->
 
 <article>
   <header>
     <h2><a href="{{ SITEURL }}/{{ article.url }}{% if not DISABLE_URL_HASH %}#{{ article.slug }}{% endif %}">{{ article.title }}</a></h2>
     <p>
-      {{ _('Recette de %(author)s dans %(category)s (%(when)s)',
-           when=article.locale_date,
-           category='<a href="%s/%s">%s</a>'|format(SITEURL, article.category.url, article.category)|safe,
-           author='<a href="%s/%s">%s</a>'|format(SITEURL, article.author.url, article.author)|safe) }}
-
+      Recette de <a href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a> dans 
+      <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
+      {% for subcategory in article.subcategories %}
+      <a href="{{ SITEURL }}/{{ subcategory.url }}">({{ subcategory.shortname }})</a>
+      {% endfor %}
+      ({{ article.locale_date }})
       {% if article.tags and not HOME_HIDE_TAGS %}
           &#8226; {{ _('Labels:') }}
           {% for tag in article.tags %}

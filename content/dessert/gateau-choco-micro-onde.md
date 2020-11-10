@@ -1,7 +1,9 @@
 Title: Gâteau chocolat micro-onde
-Category: Dessert
+Category: Dessert/Gateaux
 Tags: dessert, gateau, facile
 Summary: Recette pour gâteau chocolat exprès, en utilisant uniquement le micro-onde !
+Date:  2020-10-23 12:44
+Author: Gazou
 
 Recette pour gâteau chocolat exprès, en utilisant uniquement le micro-onde !
 

@@ -1,6 +1,7 @@
 Title: Riz au lait à la clémentine confite
-Category: Dessert
+Category: Dessert/Cremes
 Tags: dessert, facile
+Date:  2020-10-23 17:42
 Summary: La fameuse recette du riz au lait à la clémentine confite
 Author: Monique
 

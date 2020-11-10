@@ -1,5 +1,5 @@
 Title: Les navettes de Toinou
-Category: Dessert
+Category: Dessert/Petits Gateaux
 Tags: dessert, marseille
 Date:  2020-10-26 17:42
 Summary: Les fameuses navettes de Marseille, souvenir, souvenir...

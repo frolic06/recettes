@@ -6,7 +6,23 @@
 {% block page_header %}
 <article>
     <header>
-        <h1><i class="{{ helper.fa_category(category) }}"></i> {{ category }}s</h1>
+        <h2><i class="{{ helper.fa_category(category) }}"></i> {{ category }}s</h2>
+        {% block subcategory %}
+        <h3>
+            {% set sub = [] %}
+            {% for article in articles_page.object_list %}
+              {% for subcategory in article.subcategories %}
+                {% if not subcategory in sub %}
+                  {% set t = sub.append(subcategory) %}
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+            {% for s in sub %}
+              <span><a href="{{ SITEURL }}/{{ s.url }}">{{ s.shortname }}</a> {% if not loop.last %} &#8226; {% endif %}</span>
+            {% endfor %}
+        </h3>
+        <hr/>
+        {% endblock %}
     </header>
 </article>
 {% endblock %}

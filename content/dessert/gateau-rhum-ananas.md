@@ -1,7 +1,8 @@
 Title: Gâteau rhum - ananas (version rapide)
-Category: Dessert
+Category: Dessert/Gateaux
 Tags: dessert, gateau, ananas
 Summary: Gâteau à l'ananas imbibé
+Date:  2020-10-23 12:47
 
 ## Ingrédients
 - 100 g de sucre

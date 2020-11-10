@@ -133,7 +133,7 @@
 <body {% if not THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE %}class="{{ THEME_COLOR|default('light') }}-theme"{% endif %}>
   <aside>
     <div>
-      <a href="{{ SITEURL }}">
+      <a href="{{ SITEURL }}/">
         {% if SITELOGO %}
         <img src="{{ SITELOGO }}" alt="{{ SITETITLE }}" title="{{ SITETITLE }}">
         {% else %}
@@ -142,7 +142,7 @@
       </a>
 
       <h1>
-        <a href="{{ SITEURL }}">{{ SITETITLE }}</a>
+        <a href="{{ SITEURL }}/">{{ SITETITLE }}</a>
       </h1>
 
       {% if SITESUBTITLE %}<p>{{ SITESUBTITLE }}</p>{% endif %}
@@ -182,7 +182,7 @@
 
           {% for name, link in LINKS %}
             <li>
-              <a target="{{ get_target(link) }}" href="{{ link }}" >{{ name }}</a>
+              <a target="_blank" href="{{ link }}" ><i class="fas fa-link"></i> {{ name }}</a>
             </li>
           {% endfor %}
 
@@ -212,24 +212,6 @@
     </div>
   </aside>
   <main>
-    <!-- {% if MAIN_MENU %}
-    <nav>
-      <a href="{{ SITEURL }}/">{{ _('Home') }}</a>
-
-      {% for title, link in MENUITEMS %}
-      <a href="{{ link }}">{{ _(title) }}</a>
-      {% endfor %}
-
-      {% if FEED_ALL_ATOM %}
-      <a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}">{{ _('Atom') }}</a>
-      {% endif %}
-
-      {% if FEED_ALL_RSS %}
-      <a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}">{{ _('RSS') }}</a>
-      {% endif %}
-    </nav>
-    {% endif %} -->
-
     {% block page_header %}{% endblock %}
     {% block content %}
     {% endblock %}
@@ -242,28 +224,11 @@
         {% for title, link in MENUITEMS %}
         <a href="{{ link }}">{{ _(title) }}</a>
         {% endfor %}
-  
-        {% if FEED_ALL_ATOM %}
-        <a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}">{{ _('Atom') }}</a>
-        {% endif %}
-  
-        {% if FEED_ALL_RSS %}
-        <a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}">{{ _('RSS') }}</a>
-        {% endif %}
       </nav>
       {% endif %}
       {% include "partial/copyright.html" %}
     </footer>
   </main>
-
-  {% if GUAGES %}
-    {% include "partial/guages.html" %}
-  {% endif %}
-
-  {% if (PIWIK_URL and PIWIK_SITE_ID) or (MATOMO_URL and MATOMO_SITE_ID) %}
-    {% include "partial/matomo.html" %}
-  {% endif %}
-
   {% include "partial/jsonld.html" %}
 
   {% if PLUGINS and 'tipue_search' in PLUGINS %}

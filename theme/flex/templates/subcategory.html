@@ -1,0 +1,13 @@
+{% extends "index.html" %}
+{% block title %} {{ subcategory }}{% endblock %}
+{% set summarise = True %}
+
+{% import 'partial/helper.html' as helper %}
+{% block page_header %}
+<article>
+    <header>
+        <h2><a href="{{ SITEURL }}/{{ subcategory.parent.url }}"><i class="{{ helper.fa_category(subcategory.parent) }}"></i> {{ subcategory.parent }}</a> / {{ subcategory.shortname }}</h2>
+        <hr/>        
+    </header>
+</article>
+{% endblock %}

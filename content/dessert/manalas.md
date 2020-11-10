@@ -1,6 +1,7 @@
 Title: Manalas
-Category: Dessert
+Category: Dessert/Brioches
 Tags: dessert, facile, alsacien
+Date:  2020-10-26 17:42
 Summary: Petits bonshommes briochés que l'on trouve en Alsace pour la Saint Nicolas !
 Image: /images/manalas.jpg
 

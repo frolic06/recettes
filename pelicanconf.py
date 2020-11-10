@@ -23,7 +23,27 @@ LOCALE = ('fr_FR')
 THEME = "theme/alchemy"
 SITEIMAGE = "images/profile.png"
 
-# THEME = "./theme/blueidea"
+THEME = "theme/flex"
+##################################
+MAIN_MENU = True
+HOME_HIDE_TAGS = False
+
+SITETITLE=SITENAME
+MENUITEMS = (
+    ("Auteurs", "/authors.html"),
+    ("Archives", "/archives.html"),
+    ("Catégories", "/categories.html"),
+    ("Labels", "/tags.html"),
+)
+THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
+THEME_COLOR_ENABLE_USER_OVERRIDE = True
+
+USE_LESS = False
+CUSTOM_CSS = 'theme/theme.css'
+DISABLE_URL_HASH = True
+LINKS_IN_NEW_TAB = "external"
+##################################
+
 DISPLAY_SEARCH_FORM = False
 DISPLAY_CATEGORIES_ON_SUBMENU = False
 DISPLAY_CATEGORIES_ON_POSTINFO = True
@@ -57,3 +77,6 @@ WELCOME_MESSAGE = SIDEBAR_DIGEST = SITESUBTITLE = DESCRIPTION
 
 # ARTICLE_ORDER_BY = 'Title'
 # PAGE_ORDER_BY = 'Title'
+
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['subcategory']

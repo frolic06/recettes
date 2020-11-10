@@ -1,8 +1,8 @@
 Title: Gâteau aux pommes
-Category: Dessert
+Category: Dessert/Gateaux
 Tags: dessert, gateau, facile
 Summary: Gâteau aux pommes facile
-
+Date:  2020-10-23 12:42
 Le gâteau aux pommes facile
 
 - Cuisson : 30-40 min (180 °C)
