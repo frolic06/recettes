@@ -1,13 +1,14 @@
 Title: Cake aux lentilles corail
-Category: Plat
-Tags: plat, vegi, cake salé, lentilles corail
-Summary: 
+Category: Plat/Cake
+Tags: veggie, cake salé, lentilles corail
+Summary: Un cake léger pour les piques-niques
+Date:  2020-10-29 17:40
 
 ## Ingrédients
 
 - 225 g de lentilles corail
 - 3 tomates concassées
-- 1 f de laurier
+- 1 feuille de laurier
 - 1 c à s huile d'olive
 - 1 courgette émincée
 - 3 oignons nouveaux

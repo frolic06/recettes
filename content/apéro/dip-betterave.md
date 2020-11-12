@@ -1,7 +1,8 @@
 Title: Dip à la betterave rouge
-Category: Apéro
-Tags: apéro, facile, rapide
+Category: Apéro/Dips
+Tags: betterave
 Summary: Recette de dip à la betterave (facile, rapide)
+Date:  2020-10-26 12:46
 
 ## Ingrédients
 - 3 betteraves

@@ -1,6 +1,6 @@
 Title: Curry de légumes
-Category: Plat
-Tags: plat, vegi, thailandais
+Category: Plat/Légumes
+Tags: veggie, thailandais
 Summary: Curry thaïlandais, crémeux et riche en parfum, à servir avec un riz basmati 🍚
 Date:  2020-11-04 17:44
 Image: /images/curry-de-legumes.jpg

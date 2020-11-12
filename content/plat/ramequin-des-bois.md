@@ -1,8 +1,8 @@
 Title: Ramequin des bois
-Category: Plat
-Tags: plat, facile, rapide
+Category: Plat/Facile
+Tags: lait concentré
 Summary: Plat rapide utilisant du lait concentré
-
+Date:  2020-10-23 17:42
 
 ## Ingrédients
 - 2 œufs

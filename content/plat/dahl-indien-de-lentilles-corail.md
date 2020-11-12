@@ -1,8 +1,9 @@
 Title: Dahl indien de lentilles corail
-Category: Plat
-Tags: plat, vegi, indien, lentilles corail
+Category: Plat/Légumes
+Tags: veggie, indien, lentilles corail
 Summary: Recette pour du dahl de lentilles corail, un plat typiquement indien !
 Author: Lilian Besson
+Date:  2020-10-29 17:40
 
 Recette pour du dahl de lentilles corail, un plat typiquement indien !
 

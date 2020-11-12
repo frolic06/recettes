@@ -1,7 +1,8 @@
 Title: Tarte à la citrouille d'Halloween 🎃
-Category: Dessert
-Tags: dessert, potiron, halloween
+Category: Dessert/Tartes
+Tags: potiron, halloween
 Summary: Tarte pour Halloween
+Date:  2020-11-03 17:41
 Image: /images/tarte-citrouille.jpg
 
 ## Ingrédients

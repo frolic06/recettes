@@ -1,6 +1,8 @@
 Title: Tarte sans pâte aux pommes de terre, au gorgonzola et aux noisettes
-Category: Plat
-Tags: plat, quiche
+Category: Plat/Quiches
+Tags: pomme de terre, gorgonzola
+Summary:
+Date:  2020-11-10 17:40
 
 - Préparation : 30 min
 - Cuisson : 30 min

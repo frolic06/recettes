@@ -1,6 +1,6 @@
 Title: Super moelleux au chocolat
 Category: Dessert/Gateaux
-Tags: dessert, chocolat, facile
+Tags: chocolat
 Summary: Super moelleux au chocolat pour intolérants au gluten
 Date:  2020-10-26 17:41
 

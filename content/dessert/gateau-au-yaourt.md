@@ -1,6 +1,6 @@
 Title: Gâteau au yaourt
 Category: Dessert/Gateaux
-Tags: dessert, gateau, facile
+Tags: yaourt
 Summary: Le gâteau au yaourt, facile et rapide à faire
 Date:  2020-10-23 12:43
 

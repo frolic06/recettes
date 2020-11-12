@@ -1,6 +1,6 @@
 Title: Panna cotta
-Category: Dessert/Cremes
-Tags: dessert
+Category: Dessert/Crèmes
+Tags: panna cotta
 Date:  2020-10-29 13:23
 Summary: La recette de panna cotta de Karine
 Author: Karine

@@ -1,16 +1,19 @@
 Title: Croque-cake mozza-tomates séchées
+Category: Plat/Cake
+Tags: mozzarella, tomate séchée, pain de mie
+Summary:
+Date:  2020-11-11 11:40
 
 ## Ingrédients
 
-12tranches Pain de mie sans croûte
-3Boules de mozzarella
-3Oeufs
-20cl Crème liquide
-10fines tranches Jambon cru
-80g Parmesan râpé
-1Pot de tomates séchées à l’huile
-Sel
-Poivre
+- 12 tranches Pain de mie sans croûte
+- 3 boules de mozzarella
+- 3 oeufs
+- 20 cl de crème liquide
+- 10 fines tranches de jambon cru
+- 80 g de parmesan râpé
+- 1 pot de tomates séchées à l’huile
+- sel, poivre
 
 ## Préparation
 1. Préchauffez le four à 180 °C (th. 6).

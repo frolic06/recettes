@@ -1,7 +1,8 @@
 Title: Tapenade verte
-Category: Apéro
-Tags: apéro, facile, végi
+Category: Apéro/Dips
+Tags: facile, veggie, olive
 Summary: Tapenade verte aux amandes
+Date: 2020-10-23 12:46
 
 ## Ingrédients
 - 1 paquet d'olives vertes dénoyautés (200 g)

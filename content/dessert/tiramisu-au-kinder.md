@@ -1,7 +1,8 @@
 Title: Tiramisu au Kinder
-Category: Dessert
-Tags: dessert
+Category: Dessert/Tiramisus
+Tags: chocolat
 Summary: Recette de tiramisu au Kinder
+Date:  2020-10-23 17:41
 
 ## Ingrédients
 > Pour 12 personnes

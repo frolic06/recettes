@@ -1,8 +1,9 @@
 Title: Galettes végé
-Category: Plat
-Tags: plat, vegi
+Category: Plat/Légumes
+Tags: veggie
 Summary: Ces galettes trop faciles à faire trouveront leur place dans vos assiettes et dans vos burgers.
 Author: Melle Pigu
+Date:  2020-10-30 17:40
 
 ## Ingrédients
 > Pour 5 galettes.

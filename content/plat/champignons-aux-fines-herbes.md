@@ -1,7 +1,8 @@
 Title: Champignons aux fines herbes
-Category: Plat
-Tags: plat, vegi
-Summary: Champignons farcis au boursin
+Category: Plat/Légumes
+Tags: veggie, champignon
+Summary: Une recette de champignons farcis
+Date: 2020-10-23 12:46
 
 Champignons farcis au boursin
 

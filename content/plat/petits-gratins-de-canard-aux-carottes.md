@@ -1,20 +1,23 @@
 Title: Petits gratins de canard aux carottes
+Category: Plat/Gratins
+Tags: canard, carotte
+Summary:
+Date:  2020-11-11 17:40
 
 ## Ingrédients
 
-3Cuisses de canard confites
-6Carottes
-30cl Bouillon de volaille
-2Cébettes
+- 3 Cuisses de canard confites
+- 6 Carottes
+- 30 cl Bouillon de volaille
+- 2 Cébettes
 
 > Pour la béchamel :
-50g Beurre
-50g Farine
-60cl Lait entier
-25g Comté râpé
-Muscade
-Sel
-Poivre
+- 50 g Beurre
+- 50 g Farine
+- 60 cl Lait entier
+- 25 g Comté râpé
+- Muscade
+- Sel, poivre
 
 ## Préparation
 

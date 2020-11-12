@@ -1,22 +1,23 @@
 Title: Quiche aux brocolis
-Category: Plat
-Tags: plat, quiche
-Summary: Une quiche avec des brocolis et du gorgonzola
+Category: Plat/Quiches
+Tags: quiche, brocoli, gorgonzola
+Date:  2020-10-23 17:40
+Summary: Une quiche avec du brocoli et du gorgonzola
 
-- Prep. de la pâte : 10 min, plusieurs heures avant cuisson Prép. de la garniture: 10 min
+- Prep. de la pâte : 10 min, plusieurs heures avant cuisson 
+- Prép. de la garniture: 10 min
 - Cuisson: 40 min
 
 ## Ingrédients
 > Pour 4 pers.
 
-Pour la pâte brisée
-(ou 1 rouleau de pâte brisée)
+> Pour la pâte brisée (ou 1 rouleau de pâte brisée)
 - 250 g de farine
 - 175 g de beurre
 - 1 jaune d'oeuf
 - sel
 
-Pour la garniture
+> Pour la garniture
 
 - 100 g de brocolis
 - 100 g de gorgonzola
@@ -25,7 +26,7 @@ Pour la garniture
 - 20 cl de crème liquide
 - 2 c à s de pignons
 - 2 pincées de noix de muscade
-- sel poivre
+- sel, poivre
 
 
 ## Préparation

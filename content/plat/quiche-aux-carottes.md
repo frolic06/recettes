@@ -1,6 +1,7 @@
 Title: Quiche aux carottes
-Category: Plat
-Tags: plat, quiche
+Category: Plat/Quiches
+Tags: carotte
+Date:  2020-10-29 17:42
 Summary: Une quiche carotte / curry
 
 - Prep. de la pâte : 10 min, plusieurs heures avant cuisson Prép. de la garniture: 10 min

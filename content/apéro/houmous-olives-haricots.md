@@ -1,6 +1,7 @@
 Title: Houmous d'olives vertes et haricots blanc
-Category: Apéro
-Tags: apéro, houmous, facile
+Category: Apéro/Dips
+Tags: houmous, facile
+Date: 2020-10-26 12:46
 Summary: Variante de l'houmous
 
 ## Ingrédients

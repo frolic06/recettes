@@ -1,7 +1,8 @@
 Title: Verrines de crême d'avocat
-Category: Apéro
-Tags: apéro, facile
+Category: Apéro/Verrines
+Tags: avocat
 Summary: Verrines
+Date: 2020-10-23 12:46
 
 ## Ingrédients
 - 2 avocats

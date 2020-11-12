@@ -1,8 +1,9 @@
 Title: Taboulé libanais
-Category: Plat
-Tags: plat, facile, libanais
+Category: Plat/Légumes
+Tags: libanais
 Summary: Le taboulé au persil
 Image: /images/taboule-libanais.jpg
+Date:  2020-10-29 17:42
 
 Préparation: 1h + 2h de repos (voir une nuit)
 

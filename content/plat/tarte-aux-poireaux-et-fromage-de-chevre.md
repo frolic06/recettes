@@ -1,19 +1,22 @@
 Title: Tarte aux poireaux et fromage de chèvre
+Category: Plat/Quiches
 Tags: poireau, chèvre
+Date:  2020-11-11 17:40
+Summary: 3 recettes avec du poireau !
+
 ## Ingrédients
 
-300g Pâte feuilletée pur beurre
-7Poireaux
-40cl Crème liquide
-6Cabécous
-40g Beaufort râpé
-5cl Huile d’olive
-25g Beurre
-10g Farine
-2Brins de thym
-2cuil. à soupe Moutarde
-Sel
-Poivre
+- 300 g pâte feuilletée
+- 7 poireaux
+- 40 cl crème liquide
+- 6 cabécous
+- 40 g Beaufort râpé
+- 5 cl d'huile d’olive
+- 25g beurre
+- 10 g farine
+- 2 brins de thym
+- 2 c à s moutarde
+- Sel, poivre
 
 ## Préparation
 
@@ -34,4 +37,3 @@ Détaillez les poireaux en lamelles. Faites-les suer 5 min avec 40 g de beurre e
 
 Malaxez 50 g de farine, 25 g de parmesan, 50 g de beurre coupé en petits dés jusqu’à obtenir une texture sablée. Faites suer les poireaux émincés en rondelles dans 20 g de beurre avec 30 cl de crème liquide et laissez mijoter 5 min. Retirez la peau du saumon et coupez-le en petits cubes. Etalez la pâte brisée dans un moule graissé, déposez le saumon, la fondue de poireaux et le crumble. Enfournez 30 min à 180 °C.
 
-Découvrez notre recette de tarte aux poireaux et saumon. Ou encore notre recette de quiche aux poireaux et lardons.
