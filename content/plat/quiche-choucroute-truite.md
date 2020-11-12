@@ -1,6 +1,6 @@
 Title: Quiche à la choucroute et à la truite fumée d’Alsace
 Category: Plat/Quiches
-Tags: plat, quiche, poisson, truite fumée, alsacien
+Tags: truite fumée, alsacien
 Summary: Pour ceux qui sont quiches, une délicieuse quiche à la choucroute et à la truite fumée
 Author: Leïla Martin
 Image: /images/quiche-choucroute.jpg

@@ -1,6 +1,6 @@
 Title: Quesadillas facile
 Category: Plat
-Tags: plat, facile, rapide
+Tags: facile, rapide
 Summary: Une recette simple et rapide
 
 

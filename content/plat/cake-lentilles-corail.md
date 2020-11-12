@@ -1,6 +1,6 @@
 Title: Cake aux lentilles corail
 Category: Plat/Cake
-Tags: veggie, cake salé, lentilles corail
+Tags: veggie, lentilles corail
 Summary: Un cake léger pour les piques-niques
 Date:  2020-10-29 17:40
 
