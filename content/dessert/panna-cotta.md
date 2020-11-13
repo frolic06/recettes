@@ -4,7 +4,7 @@ Tags: panna cotta
 Date:  2020-10-29 13:23
 Summary: La recette de panna cotta de Karine
 Author: Karine
-Image: /images/pannacotta.jpg
+Image: pannacotta.jpg
 
 ## Ingrédients
 - 50 cl de crème fraîche liquide (**crème fleurette**)

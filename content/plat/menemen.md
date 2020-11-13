@@ -3,7 +3,7 @@ Category: Plat
 Tags: facile
 Summary: Recette incontournable de la gastronomie turque, le menemen est une savoureuse omelette
 Date:  2020-10-23 17:40
-Image: /images/menemen.jpg
+Image: menemen.jpg
 
 Recette incontournable de la gastronomie turque, le menemen est une savoureuse omelette
 

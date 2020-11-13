@@ -4,7 +4,7 @@ Tags: blanc d'oeuf
 Date:  2020-11-09 17:42
 Summary: Effectivement c’est une tuerie comme comme on dit maintenant !!!
 Author: Monique
-Image: /images/meringues.jpg
+Image: meringues.jpg
 
 ## Ingrédients
 - 4 blancs d’œufs

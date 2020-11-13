@@ -3,7 +3,7 @@ Category: Dessert/Brioches
 Tags: alsacien
 Date:  2020-10-26 17:42
 Summary: Petits bonshommes briochés que l'on trouve en Alsace pour la Saint Nicolas !
-Image: /images/manalas.jpg
+Image: manalas.jpg
 
 - Préparation : 1 h 30
 - Cuisson : 25 min

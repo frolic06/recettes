@@ -4,7 +4,7 @@ Tags: clémentine
 Summary: Un dessert léger avec des clémentines 🍊
 Date:  2020-11-06 12:42
 Author: Gasou
-Image: /images/gratin-clementines.jpg
+Image: gratin-clementines.jpg
 
 Temps de prép.: 10 mn
 Temps de cuisson: 10 mn

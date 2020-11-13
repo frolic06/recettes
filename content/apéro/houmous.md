@@ -3,7 +3,7 @@ Category: Apéro/Dips
 Tags: houmous, libanais, facile
 Summary: L'houmous traditionnel
 Date: 2020-10-26 12:46
-Image: /images/houmous.jpg
+Image: houmous.jpg
 
 ## Ingrédients
 - 1 petite boîte de pois chiche (400 g)
