@@ -10,14 +10,14 @@
         {% block subcategory %}
         <h3>
             {% set sub = [] %}
-            {% for article in articles_page.object_list %}
+            {% for article in articles %}
               {% for subcategory in article.subcategories %}
                 {% if not subcategory in sub %}
                   {% set t = sub.append(subcategory) %}
                 {% endif %}
               {% endfor %}
             {% endfor %}
-            {% for s in sub %}
+            {% for s in sub|sort %}
               <span><a href="{{ SITEURL }}/{{ s.url }}">{{ s.shortname }}</a> {% if not loop.last %} &#8226; {% endif %}</span>
             {% endfor %}
         </h3>

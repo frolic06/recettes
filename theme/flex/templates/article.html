@@ -27,10 +27,12 @@
     {% endif %}
     <h1 id="{{ article.slug }}">{{ article.title }}</h1>
     <p>
-      {{ _('%(category)s de %(author)s publié le %(when)s',
-           when=article.locale_date,
-           category='<a href="%s/%s">%s</a>'|format(SITEURL, article.category.url, article.category)|safe,
-           author='<a href="%s/%s">%s</a>'|format(SITEURL, article.author.url, article.author)|safe) }}
+      <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
+      {% for subcategory in article.subcategories %}
+      <a href="{{ SITEURL }}/{{ subcategory.url }}">({{ subcategory.shortname }})</a>
+      {% endfor %}
+      de <a href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a> publié le 
+      {{ article.locale_date }}
 
       {% if PLUGINS and 'post_stats' in PLUGINS %}
         &#8226; {{ _('%(minutes)s min read', minutes=article.stats['read_mins']) }}

@@ -20,5 +20,5 @@ Recette pour gâteau chocolat exprès, en utilisant uniquement le micro-onde !
 2. Rajouter le sucre, les oeufs, la farine et la levure
 3. Mettre au microonde 5-6 mn pleine puissance
 4. Démouler. 
-5. *(optionel)* Faire un glacage avec 75 g de chocolat, un peu d'eau et un peu de crême fraiche.
+5. *(optionel)* Faire un glacage avec 75 g de chocolat, un peu d'eau et un peu de crème fraiche.
 6. Mettre au frigo

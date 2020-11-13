@@ -1,7 +1,7 @@
-Title: Verrines de crême d'avocat
+Title: Verrines de crème d'avocat
 Category: Apéro/Verrines
 Tags: avocat
-Summary: Verrines
+Summary: Des verrines très rapides à faire
 Date: 2020-10-23 12:46
 
 ## Ingrédients
@@ -15,3 +15,6 @@ Date: 2020-10-23 12:46
 ## Préparation
 1. Mixer, vérifier l'assaisonnement. Répartir dans des verrines. Mettre au frais.
 2. Garnir au dernier moment avec de petits morceaux de saumon fumé, jambon...
+
+# Variante
+- On peut mettre d'abord des miettes de thon, puis l'avocat et pour finir des dés de tomate.
