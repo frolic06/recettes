@@ -1,6 +1,6 @@
 Title: Quiche aux brocolis
 Category: Plat/Quiches
-Tags: quiche, brocoli, gorgonzola
+Tags: brocoli, gorgonzola
 Date:  2020-10-23 17:40
 Summary: Une quiche avec du brocoli et du gorgonzola
 
