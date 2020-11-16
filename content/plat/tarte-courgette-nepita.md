@@ -1,6 +1,6 @@
 Title: Tarte à la courgette et Népita
 Category: Plat/Quiches
-Tags: courgette, népita
+Tags: courgette, menthe
 Summary: Une recette corse qui utilise la népita (fausse menthe)
 Date:  2020-11-13 17:40
 

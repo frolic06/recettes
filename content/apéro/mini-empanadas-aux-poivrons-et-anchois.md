@@ -1,6 +1,6 @@
 Title: Mini-empanadas aux poivrons et anchois
 Category: Apéro/Tapas
-Tags: poivron, anchois
+Tags: empanadas, poivron, anchois
 Summary: 
 Date:  2020-11-11 18:26
 
