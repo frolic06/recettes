@@ -9,8 +9,14 @@
   </header>
   <div>
     <ul class="list">
+      {% set previous_tag = {'tag': False} %}
       {%- for tag, articles in tags|sort %}
+        {% if tag.name|first != previous_tag.tag %}
+        <p>{{ tag.name|first|upper }}</p>
+        {% endif %}
           <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> ({{ articles|count }})</li>
+
+          {% set test = previous_tag.update({'tag': tag.name|first}) %}
       {% endfor %}
     </ul>
   </div>
