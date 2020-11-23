@@ -1,6 +1,6 @@
 Title: Rillettes de hareng
-Category: Apéro/Dips
-Tags: facile, hareng
+Category: Apéro/Pâté
+Tags: facile, hareng, rillette
 Summary:
 Date: 2020-11-11 12:46
 

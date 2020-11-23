@@ -1,6 +1,6 @@
 Title: Rillettes de maquereaux
-Category: Apéro/Dips
-Tags: maquereau
+Category: Apéro/Pâté
+Tags: maquereau, rillette
 Summary: Une bonne façon de manger du poisson
 Date: 2020-11-16 12:46
 

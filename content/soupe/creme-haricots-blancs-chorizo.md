@@ -1,7 +1,7 @@
 Title: Crème de haricots blancs et chorizo
 Category: Soupe
 Tags: haricot, chorizo
-Summary: La soupe du placard
+Summary: Une soupe avec les ingrédients du placard
 Date:  2020-11-16 17:41
 
 ## Ingrédients
