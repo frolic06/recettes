@@ -5,8 +5,6 @@ Summary:
 Date:  2020-11-23 12:44
 Author: Gasou
 
-Recette pour gâteau chocolat exprès, en utilisant uniquement le micro-onde !
-
 ## Ingrédients
 - 270 g farine
 - 250 g fromage blanc
