@@ -1,7 +1,7 @@
 Title: Tarte fine aux poires et à la fourme d'Ambert
 Category: Plat/Quiches
-Tags: poire, bleu
-Summary: Poire et bleu, une bonne combinaison
+Tags: poire, fourme d'ambert
+Summary: Poire et bleu, une bonne combinaison !
 Date:  2020-11-24 17:40
 Image: tarte-poire-fourme.jpg
 
