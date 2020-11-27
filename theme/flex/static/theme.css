@@ -7,7 +7,28 @@ hr {
 }
 
 .index-image {
-    max-height: 100px;
+    width: 100%;
     border-radius: 8px;
+    object-fit: cover;
+    max-width: 300px;
+    max-height: 200px;
 }
-  
+
+.image-container {
+    position: relative;
+    text-align: center;
+    max-width: 300px;
+    max-height: 200px;
+}
+
+.image-summary {
+    position: absolute;
+    width: 100%;
+    bottom: 8px;
+    background-color: #00000060;
+    color: white;
+    line-height: 1em;
+}
+a.image-link {
+    color: white;
+}
