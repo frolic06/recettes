@@ -50,14 +50,12 @@ DISPLAY_CATEGORIES_ON_POSTINFO = True
 
 # Blogroll
 LINKS = (
-    ("Marmiton", "http://marmiton.org/"),
-    ("Je vais vous cuisiner", "https://jevaisvouscuisiner.com/"),
+    # ("Marmiton", "http://marmiton.org/"),
+    # ("Je vais vous cuisiner", "https://jevaisvouscuisiner.com/"),
 )
 
 # Social widget
 SOCIAL = ()
-#SOCIAL = (('You can add links in your config file', '#'),
-#          ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 20
 
