@@ -1,4 +1,4 @@
-Title: Le kouglof
+Title: Kouglof
 Category: Dessert/Brioches
 Tags: alsacien
 Summary: Kouglof, kougelhopf ou kouglouf... diffile à écrire, facile à manger !
