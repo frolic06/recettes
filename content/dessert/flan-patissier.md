@@ -1,6 +1,6 @@
 Title: Flan pâtissier
 Category: Dessert/Gateaux
-Tags: oeufs, fleur d’oranger
+Tags: oeuf (jaune), fleur d’oranger
 Summary: La recette simplissime de Christophe Michalak
 Date:  2020-11-24 18:46
 
@@ -25,7 +25,7 @@ Cuisson : 30 minutes à 160°C
 - 60 g de sucre cassonade
 - 30 g de maïzena
 - 10 g de fleur d’oranger
-- 60 g de jaunes d’œufs
+- 60 g de jaunes d’œufs (3 oeufs)
 - 1 gousse de vanille
 
 ## Préparation
