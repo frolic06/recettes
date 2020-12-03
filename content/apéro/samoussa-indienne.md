@@ -1,39 +1,46 @@
-Ingredients
-Samoussa indienne, végétarien
+Title: Samoussas aux légumes à l'Indienne
+Category: Apéro/Tapas
+Tags: brick, veggi, indien
+Summary: Des samoussas pour l'apéro par exemple (avec la pête à samoussa)
+Date: 2020-11-11 12:46
 
-Pâte a samoussa :
-300 g de farine
-100 g de beurre fondu
-150 ml d'eau
-25 g de maïzena
-Farce pomme de terre :
-2 pommes de terre
-150 g de petits pois ou au choix
-1 oignon
-2 c-a-soupe d'huile végétale
-2 gousse d'ail hachée
-½ c-a-c garam massala
-½ c-a-c de coriandre en poudre1 c-a-c de gingembre hachée
-½ c-a-c curcuma
-sel, poivre noir
-½ jus de citron
-1 c-a-c piment rouge en poudre
-2 c-a-soupe de coriandre ciselée
-½ piment rouge émincée
+## Ingrédients
+> Pâte à samoussa:
+- 300 g de farine
+- 100 g de beurre fondu
+- 150 ml d'eau
+- 25 g de maïzena
+> Farce aux pommes de terre:
+- 2 pommes de terre
+- 150 g de petits pois (ou un autre légume: courgette...)
+- 1 oignon
+- 2 c à s d'huile
+- 2 gousse d'ail hachée
+- ½ c à c garam massala
+- ½ c à c de coriandre en poudre
+- 1 c à c de gingembre hachée
+- ½ c à c curcuma
+- sel, poivre
+- ½ jus de citron
+- 1 c à c de piment en poudre (+ du piment éventuellement)
+- 2 c à s de coriandre ciselée
 
-Instructions
-Préparer la pâte :
-Tamiser la farine et la maïzena, ajoutez le sel et le beurre fondu, sabler avec les doigts jusqu’à absorption complète du beurre, mouiller doucement avec l’eau en pétrissant jusqu’à ce que la pâte soit lisse, laisser la pâte reposer.
-Éplucher les pomme de terre les couper en cubes et les cuire dans de l'eau salée jusqu'à ce qu'elles soient tendre. Écraser à la fourchette et réserver.
-Cuire les petits pois dans une eau salée ou a la vapeur. Égoutter et réserver.
-Chauffer l'huile dans une poêle et faire revenir l'oignon jusqu'à ce qu'il soit doré.
-Ajouter l'ail, le gingembre et le piment rouge (si vous l'utilisez) et cuire pendant 2 minutes.
-Ajouter le garam massala, le curcuma, le piment rouge en poudre et le sel et cuire 2 minutes de plus.
-Dans un bol, mélanger la purée de pomme de terre, l'oignon, les petits pois.
+## Préparation
+> Préparer la pâte (*on peut aussi utiliser des bricks tout prêts à la place*):
+1. Tamiser la farine et la maïzena, ajoutez le sel et le beurre fondu, sabler avec les doigts jusqu’à absorption complète du beurre, mouiller doucement avec l’eau en pétrissant jusqu’à ce que la pâte soit lisse, laisser la pâte reposer.
+
+> Farce:
+1. Éplucher les pomme de terre. Les couper en cubes et les cuire dans de l'eau salée jusqu'à ce qu'elles soient tendre. Écraser à la fourchette et réserver.
+2. Cuire les petits pois dans une eau salée ou à la vapeur. Égoutter et réserver.
+3. Chauffer l'huile dans une poêle et faire revenir l'oignon jusqu'à ce qu'il soit doré.
+4. Ajouter l'ail, le gingembre et le piment rouge (si vous l'utilisez) et cuire pendant 2 minutes.
+5. Ajouter le garam massala, le curcuma, le piment rouge en poudre et le sel et cuire 2 minutes de plus.
+6. Dans un bol, mélanger la purée de pomme de terre, l'oignon, les petits pois.
 Arroser de jus de citron et ajouter la coriandre hachée. Bien mélanger le tout.
-Pour assembler les samosas: diviser la pâte en boules de taille égale.
-Sur une surface farinée, roulez chaque balle en un cercle.
-Déposer 1 c-a-c de farce au centre et badigeonner les extrémités du cercle d'eau.
-Fermer les samoussa en pinçant bien afin que ça ne s'ouvre pas durant la cuisson.
-Chauffer l'huile dans une friteuse ou une poêle profonde. Frire les samoussa jusqu’à ce qu'elle prennent une belle couleur.
+7. Pour assembler les samosas: diviser la pâte en boules de taille égale.
+8. Sur une surface farinée, roulez chaque boule en un cercle.
+9. Déposer 1 c à c de farce au centre et badigeonner les extrémités du cercle d'eau.
+10. Fermer les samoussa en pinçant bien afin que ça ne s'ouvre pas durant la cuisson.
+11. Chauffer l'huile dans une friteuse ou une poêle profonde. Frire les samoussa jusqu’à ce qu'elle prennent une belle couleur.
+
 Servir aussitôt !

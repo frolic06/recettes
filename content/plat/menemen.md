@@ -1,6 +1,6 @@
 Title: Menemen
-Category: Plat
-Tags: facile
+Category: Plat/Oeufs
+Tags: oeuf
 Summary: Recette incontournable de la gastronomie turque, le menemen est une savoureuse omelette
 Date:  2020-10-23 17:40
 Image: menemen.jpg
