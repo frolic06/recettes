@@ -10,7 +10,7 @@ Image: manalas.jpg
 
 ## Ingrédients
 - 500 g de farine
-- 100 g de semoule
+- 100 g de sucre semoule
 - 100 g de beurre
 - 25 g de levure boulangère
 - 2 oeufs entiers
