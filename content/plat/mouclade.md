@@ -1,5 +1,5 @@
 Title: Moules à la mouclade
-Category: Plat
+Category: Plat/Poissons
 Tags: moule
 Author: Monique
 Date:  2020-10-29 17:42

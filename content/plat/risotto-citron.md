@@ -1,5 +1,5 @@
 Title: Risotto au citron
-Category: Plat
+Category: Plat/Légumes
 Tags: riz
 Summary: Recette toute simple de risotto 🍋 (avec des variantes)
 Date:  2020-11-04 17:42

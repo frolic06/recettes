@@ -1,7 +1,7 @@
 Title: Pissaladière
 Category: Plat/Quiches
 Tags: oignon
-Summary: La fameuse recette noiçoise
+Summary: La fameuse recette nicoise
 Date: 2020-12-01 17:42
 
 ## Ingrédients
