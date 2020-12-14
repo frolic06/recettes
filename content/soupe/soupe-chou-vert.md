@@ -1,7 +1,7 @@
 Title: Soupe au chou vert
 Category: Soupe
 Tags: chou, poireau
-Summary: La soupe aux choux ?!
+Summary: Une soupe aux choux !!!
 Date:  2020-12-03 17:41
 
 ## Ingrédients
