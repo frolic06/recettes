@@ -1,6 +1,6 @@
 Title: Paupiettes de chou farci
 Category: Plat/Légumes
-Tags: chou, farce
+Tags: chou, viande hachée
 Date:  2020-12-14 12:42
 Summary: Une recette de Marlène Dietrich
 
