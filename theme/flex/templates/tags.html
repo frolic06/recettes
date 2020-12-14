@@ -11,12 +11,16 @@
     <ul class="list">
       {% set previous_tag = {'tag': False} %}
       {%- for tag, articles in tags|sort %}
-        {% if tag.name|first != previous_tag.tag %}
-        <p>{{ tag.name|first|upper }}</p>
+        {% set tag_first = tag.name|first %}
+        {% if tag_first == 'é' %}
+          {% set tag_first = 'e' %}
+        {% endif %}
+        {% if tag_first != previous_tag.tag %}
+        <p>{{ tag_first|upper }}</p>
         {% endif %}
           <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> ({{ articles|count }})</li>
 
-          {% set test = previous_tag.update({'tag': tag.name|first}) %}
+          {% set test = previous_tag.update({'tag': tag_first}) %}
       {% endfor %}
     </ul>
   </div>
