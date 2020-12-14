@@ -1,6 +1,6 @@
 Title: Tourtes de pommes de terre au porc
 Category: Plat/Quiches
-Tags: pomme de terre, chair à saucisse
+Tags: pomme de terre, viande hachée
 Summary: Le poulet mariné au citron, aussi bon qu'au resto libanais !
 Date:  2020-11-11 17:40
 
