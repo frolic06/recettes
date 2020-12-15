@@ -32,3 +32,8 @@ hr {
 a.image-link {
     color: white;
 }
+
+
+span.pagination-current, a.pagination-other {
+    padding: .6em;
+}
