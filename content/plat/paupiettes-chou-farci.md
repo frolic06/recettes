@@ -3,6 +3,7 @@ Category: Plat/Légumes
 Tags: chou, viande hachée
 Date:  2020-12-14 12:42
 Summary: Une recette de Marlène Dietrich
+Image: paupiettes-chou-farci.jpg
 
 ## Ingrédients
 - 1 chou vert
