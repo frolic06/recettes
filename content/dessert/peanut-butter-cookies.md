@@ -3,6 +3,7 @@ Category: Dessert/Petits Gateaux
 Tags: cookies
 Author: Julie Andrieu
 Date:  2020-12-21 17:40
+Image: peanut-cookies.jpg
 Summary: 
 
 ## Ingrédients

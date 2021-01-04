@@ -3,7 +3,7 @@ Category: Dessert/Tartes
 Tags: citron
 Summary: La recette classique de la tarte au citron
 Date:  2020-12-01 17:41
-
+Image: tarte-citron.jpg
 ## Ingrédients
 
 > Pour la pâte sablée :

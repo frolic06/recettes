@@ -3,6 +3,7 @@ Category: Dessert/Petits Gateaux
 Tags: noël, bredala
 Date:  2020-12-03 17:42
 Summary: Des petits sablés rigolos en forme de hiboux pour Noël
+Image: biscuit-chouette.jpg
 
 ## Ingrédients
 - 250 g de farine
