@@ -3,6 +3,7 @@ Category: Dessert/Brioches
 Tags: alsacien
 Summary: Kouglof, kougelhopf ou kouglouf... diffile à écrire, facile à manger !
 Date:  2020-12-01 12:42
+Image: kouglof.jpg
 
 ## Ingrédients
 

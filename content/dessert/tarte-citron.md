@@ -7,6 +7,7 @@ Image: tarte-citron.jpg
 ## Ingrédients
 
 > Pour la pâte sablée :
+
 - 250 g de farine
 - 125 g de beurre doux
 - 70 g de sucre semoule
@@ -15,12 +16,14 @@ Image: tarte-citron.jpg
 - 1 pincée de sel
 
 > Pour la crème au citron :
+
 - 4 citrons de taille moyenne
 - 150 g de sucre semoule
 - 3 oeufs
 - 1 cuillère à soupe de maïzena
 
 > Pour la meringue :
+
 - 2 blancs d'oeuf
 - 100 g de sucre glace
 - 1/2 cuillère à café de levure chimique 
@@ -28,7 +31,7 @@ Image: tarte-citron.jpg
 
 ## Préparation
 
-1. On commence par la pâte sablée : mettre le four à préchauffer à 180°C (thermostat 6).
+1. On commence par la pâte sablée : mettre le four à préchauffer à 180°C.
 2. On sépare les blancs des jaunes d'oeufs.
 3. Fouetter les jaunes d'oeuf avec le sucre et 2 cuillères d'eau pour faire mousser.
 4. Mélanger au doigt la farine et le beurre coupé en petits cubes pour obtenir une consistance sableuse et afin que tout le beurre soit absorbé (il faut faire vite pour que le mélange ne ramollisse pas trop).
