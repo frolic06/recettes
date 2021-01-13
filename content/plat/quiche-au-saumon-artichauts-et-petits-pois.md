@@ -1,6 +1,6 @@
 Title: Quiche au saumon, artichauts et petits pois
 Category: Plat/Quiches
-Tags: saumon
+Tags: saumon, ricotta
 Summary: Une quiche avec des ingrédients en boite
 Date: 2020-11-11 17:42
 

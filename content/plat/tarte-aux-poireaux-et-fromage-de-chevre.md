@@ -1,4 +1,4 @@
-Title: Tarte aux poireaux et fromage de chèvre
+Title: Tarte aux poireaux et fromage de chèvre (et autres recettes)
 Category: Plat/Quiches
 Tags: poireau, chèvre
 Date:  2020-11-11 17:40

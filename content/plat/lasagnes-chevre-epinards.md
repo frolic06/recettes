@@ -3,6 +3,7 @@ Category: Plat/Lasagnes
 Tags: chèvre, épinard
 Summary: Un bon plat de lasagnes végétariennes au fromage de chèvre et aux épinards pour varier un peu !
 Date:  2020-11-11 17:40
+Image: lasagnes-thon-epinard.jpg
 
 ## Ingrédients
 > pour 6 personnes

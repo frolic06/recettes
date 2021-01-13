@@ -1,6 +1,6 @@
 Title: Tartelette aux trois poivrons et à la fourme d'Ambert
 Category: Apéro/Tapas
-Tags: poivron, fourme d'ambert, brick
+Tags: poivron, fourme d'ambert, brick, ricotta
 Summary: Des tartelettes pour l'apéro
 Date: 2020-11-11 12:46
 

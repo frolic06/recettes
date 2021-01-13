@@ -1,6 +1,6 @@
 Title: Ramequin des mers
 Category: Plat/Facile
-Tags: lait concentré
+Tags: lait concentré, poireau, thon
 Summary: Plat rapide utilisant du lait concentré
 Date:  2020-10-23 17:42
 

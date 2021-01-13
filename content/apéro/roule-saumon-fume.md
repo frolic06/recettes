@@ -1,6 +1,6 @@
 Title: Roulé au saumon fumé et au Boursin 
 Category: Apéro/Verrines
-Tags: facile
+Tags: facile, saumon
 Summary: Classique de l'apéro
 Date: 2020-10-23 12:46
 

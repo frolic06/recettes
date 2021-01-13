@@ -1,8 +1,9 @@
 Title: Lasagnes au thon et aux épinards
 Category: Plat/Lasagnes
-Tags: thon, épinard
+Tags: thon, épinard, ricotta
 Summary: Une autre recette de lasagnes
 Date:  2020-11-11 17:40
+Image: lasagnes-thon-epinard.jpg
 
 ## Ingrédients
 
