@@ -3,6 +3,7 @@ Category: Dessert/Confitures
 Tags: citron
 Date:  2020-12-03 17:42
 Summary: Une recette facile de marmelade de citron
+Image: confiture-citron.jpg
 
 ## Ingrédients
 - 6 citrons Meyer (environ 680 g)
