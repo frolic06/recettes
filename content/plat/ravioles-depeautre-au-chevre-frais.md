@@ -1,5 +1,5 @@
 Title: Ravioles d’épeautre au chèvre frais et olives
-Category: Plat/Lasagnes
+Category: Plat/Pasta
 Tags: chèvre
 Summary: Des ravioles pour une entrée ou pour accompagner un gigot d'agneau
 Date:  2020-12-21 17:42

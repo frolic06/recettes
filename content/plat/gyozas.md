@@ -1,5 +1,5 @@
 Title: Gyozas
-Category: Plat/Lasagnes
+Category: Plat/Pasta
 Tags: raviolis, japonais, viande hachée
 Summary: Les gyozas sont des raviolis japonais en forme de croissants, croustillants et moelleux 🥟
 Date:  2020-11-04 17:40
