@@ -1,6 +1,6 @@
 Title: Lasagnes chèvre-épinards
 Category: Plat/Pasta
-Tags: chèvre, épinard
+Tags: chèvre, épinard, lasagne
 Summary: Un bon plat de lasagnes végétariennes au fromage de chèvre et aux épinards pour varier un peu !
 Date:  2020-11-11 17:40
 Image: lasagnes-thon-epinard.jpg
