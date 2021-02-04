@@ -35,5 +35,11 @@ a.image-link {
 
 
 span.pagination-current, a.pagination-other {
-    padding: .6em;
+    padding: 0.2em 0.6em 0.2em 0.6em;
+}
+
+span.pagination-current {
+    background-color: black;
+    border-radius: 50%;
+    color: white;
 }
