@@ -5,6 +5,7 @@ Summary: Une tarte et un crumble en même temps
 Date:  2020-11-13 17:41
 Author: Gasou
 Image: tarte-crumble.jpg
+Rating: 3
 
 Préparation: 15 min
 Cuisson: 45 min

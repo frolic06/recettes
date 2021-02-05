@@ -4,6 +4,7 @@ Tags: potiron, halloween
 Summary: Tarte pour Halloween
 Date:  2020-11-03 17:41
 Image: tarte-citrouille.jpg
+Rating: 3
 
 ## Ingrédients
 > Pâte sucrée aux noisettes :

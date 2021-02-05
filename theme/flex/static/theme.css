@@ -43,3 +43,7 @@ span.pagination-current {
     border-radius: 50%;
     color: white;
 }
+
+.checked {
+    color: #ff5a09;
+}

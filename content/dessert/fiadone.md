@@ -3,6 +3,7 @@ Category: Dessert/Gateaux
 Tags: citron
 Date:  2021-02-03 19:42
 Summary: Une recette Corse au citron
+Rating: 5
 
 ## Ingrédients
 - 1 brocciu (ou une brousse)

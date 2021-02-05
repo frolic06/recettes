@@ -5,6 +5,7 @@ Summary: La raie, d'habitude je la mets de côté (hihi), mais en fait c'est fac
 Date:  2020-10-25 17:40
 Author: Monique
 Image: raie.jpg
+Rating: 4
 
 ## Ingrédients
 

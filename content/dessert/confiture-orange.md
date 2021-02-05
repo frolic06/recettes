@@ -5,6 +5,7 @@ Date:  2021-01-18 17:42
 Summary: La recette de Mamie Simone
 Author: Monique
 Image: confiture-orange.jpg
+Rating: 5
 
 Préparation sur 3 jours
 

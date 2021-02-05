@@ -12,3 +12,30 @@
 fas fa-utensils
 {%- endif -%}
 {%- endmacro -%}
+
+{%- macro star(rating) -%}
+{% for i in [1,2,3,4,5] %}
+<span class="fas fa-star {% if i <= rating | int %}checked{% endif %}"></span>
+{% endfor %}
+{%- endmacro -%}
+
+{% macro Search_scat(parent, site_url, articles) %}
+    {% set children = [] %}
+    {% for article in articles %}
+        {% for subcategory in article.subcategories %}
+            {% if subcategory.parent.name == parent.name and subcategory not in children %}
+                {% set t = children.append(subcategory) %}
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+
+    {% if children|length > 0 %}
+        <ul>
+            {% for subcategory in children %}
+                <li><a href="{{ site_url }}/{{ subcategory.url }}">{{ subcategory.shortname }}</a>
+                    {{- Search_scat(subcategory, site_url, articles) -}}
+                </li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+{% endmacro %}

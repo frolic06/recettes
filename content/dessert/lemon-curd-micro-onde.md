@@ -4,6 +4,7 @@ Tags: oeuf, citron
 Summary: Une crème de citron au micro onde pour une tarte au citron ou pour une verrine par exemple
 Date:  2020-12-03 18:46
 Image: lemon-curd.jpg
+Rating: 5
 
 Une crème de citron ou lemon curd au micro-onde aux oeufs entiers, facile, rapide et inratable (5 minutes maximum) qui servira comme garniture à une tarte au citron meringuée ou pas, fourrer un gâteau ou tout simplement à présenter en verrine garnie de chantilly ou meringue.
 

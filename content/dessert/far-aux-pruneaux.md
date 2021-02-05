@@ -5,6 +5,7 @@ Summary: Une recette de far breton aux pruneaux très facile
 Date:  2020-12-03 18:46
 Author: Gasou
 Image: far-pruneaux.jpg
+Rating: 4
 
 ## Ingrédients
 - 300 g de pruneaux dénoyautés

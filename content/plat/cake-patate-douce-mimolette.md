@@ -4,6 +4,7 @@ Tags: patate douce
 Summary: Un cake salé et sucré
 Date:  2020-11-23 17:40
 Image: cake-patate-douce-mimolette.jpg
+Rating: 3
 
 ## Ingrédients
 

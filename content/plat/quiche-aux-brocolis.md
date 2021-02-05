@@ -3,6 +3,7 @@ Category: Plat/Quiches
 Tags: brocoli, gorgonzola
 Date:  2020-10-23 17:40
 Summary: Une quiche avec du brocoli et du gorgonzola
+Rating: 5
 
 - Prep. de la pâte : 10 min, plusieurs heures avant cuisson 
 - Prép. de la garniture: 10 min

@@ -26,6 +26,9 @@
       {{ translations.translations_for(article) }}
     {% endif %}
     <h1 id="{{ article.slug }}">{{ article.title }}</h1>
+    {% if article.rating %}
+    <p>{{ helper.star(article.rating) }}</p>
+    {% endif %}
     <p>
       <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
       {% for subcategory in article.subcategories %}

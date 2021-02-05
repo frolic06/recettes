@@ -5,6 +5,7 @@ Author: Julie Andrieu
 Date:  2020-12-21 17:40
 Image: peanut-cookies.jpg
 Summary: 
+Rating: 5
 
 ## Ingrédients
 - 100 g de “peanut butter” (beurre de cacahuètes) 

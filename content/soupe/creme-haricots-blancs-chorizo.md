@@ -3,6 +3,7 @@ Category: Soupe
 Tags: haricot, chorizo
 Summary: Une soupe avec les ingrédients du placard
 Date:  2020-11-16 17:41
+Rating: 4
 
 ## Ingrédients
 - 1	boite de haricots blancs (500 g)

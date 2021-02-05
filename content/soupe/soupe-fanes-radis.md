@@ -2,6 +2,8 @@ Title: Soupe de fanes de radis
 Category: Soupe
 Tags: soupe, facile
 Summary: Une soupe pour ne plus jetter les feuilles de radis, c'est très bon !
+Date:  2020-10-26 17:41
+Rating: 5
 
 ## Ingrédients
 - 1 botte de radis (juste les feuilles !)

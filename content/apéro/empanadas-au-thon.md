@@ -4,6 +4,7 @@ Tags: empanadas, poivron, thon, tomate, olive
 Summary: Une recette d'empanadas facile
 Image: empanadas-thon.jpg
 Date:  2020-11-16 08:26
+Rating: 5
 
 ## Ingrédients
 

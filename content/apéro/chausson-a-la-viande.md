@@ -8,11 +8,14 @@ Chausson salé (au four ou à la poele)
 
 ## Ingrédients
 > Pâte à chausson :
+
 - 250-270 g de farine (2 tasse et ¼)
 - une pincée de sel
 - 65 g de beurre
 - 155 ml d'eau
+
 > Farce :
+
 - 1 c à s d'huile d'olive
 - 1 petit oignon haché
 - 1 gousse d'ail hachée

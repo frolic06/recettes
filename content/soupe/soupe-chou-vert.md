@@ -3,6 +3,7 @@ Category: Soupe
 Tags: chou, poireau
 Summary: Une soupe aux choux !!!
 Date:  2020-12-03 17:41
+Rating: 3
 
 ## Ingrédients
 - 1 chou vert
