@@ -6,8 +6,11 @@ Summary: Une recette de gelée de fleurs de mimosa
 Image: mimosa.jpg
 
 Préparation: 30 min
+
 Cuisson: 20 min
+
 Macération : 1 h
+
 Pour: 1 kg de gelée de mimosa environ
 
 ## Ingrédients

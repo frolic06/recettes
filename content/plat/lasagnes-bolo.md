@@ -7,6 +7,7 @@ Date:  2021-01-25 17:40
 ## Ingrédients
 
 > Pour la bolo:
+
 - 600 g boeuf haché à 15% de matière grasse
 - 1 oignon
 - 3 petites branches céleri
@@ -54,7 +55,7 @@ Date:  2021-01-25 17:40
 
 5. Préparer les légumes. Dans une casserole faire revenir l'oignon émincé avec 1 c à s d'huile. Ajouter ensuite les petits pois, saler, couvrir d'eau et laisser mijoter une dizaine de minutes.
 
-6. Dans une poêle, faire revenir l'ail avec 2 c à d d'huile puis ajouter les cèpes. Laisser cuire 15 minutes environ, saler, poivrer puis ajouter le lait et laisser cuire 5 minutes.
+6. Dans une poêle, faire revenir l'ail avec 2 c à s d'huile puis ajouter les cèpes. Laisser cuire 15 minutes environ, saler, poivrer puis ajouter le lait et laisser cuire 5 minutes.
 
 7. Incorporer ensuite les petits pois et les cèpes à la sauce à la viande.
 

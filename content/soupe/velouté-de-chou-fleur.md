@@ -6,9 +6,9 @@ Date:  2021-02-05 17:41
 
 ## Ingrédients
 - 1 chou-fleur
-– 1/2 bouillon cube de légumes
-– 200 ml de lait (animal ou végétal)
-– 2 c à s de purée de cacahuète
+- 1/2 bouillon cube de légumes
+- 200 ml de lait (animal ou végétal)
+- 2 c à s de purée de cacahuète
 - des cacahuètes au naturel
 
 ## Préparation
