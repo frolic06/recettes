@@ -4,6 +4,7 @@ Tags: mimosa
 Date:  2021-01-13 17:42
 Summary: Une recette de gelée de fleurs de mimosa
 Image: mimosa.jpg
+Rating: 4
 
 Préparation: 30 min
 
@@ -14,7 +15,7 @@ Macération : 1 h
 Pour: 1 kg de gelée de mimosa environ
 
 ## Ingrédients
-- 70 g de fleurs de mimosa
+- 70 g de fleurs de mimosa (uniquement les boules jaunes !)
 - 6 g d’agar agar
 - 1 jus de citron
 - 350 g de sucre
