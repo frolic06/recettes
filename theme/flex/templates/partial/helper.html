@@ -14,9 +14,17 @@ fas fa-utensils
 {%- endmacro -%}
 
 {%- macro star(rating) -%}
-{% for i in [1,2,3,4,5] %}
-<span class="fas fa-star {% if i <= rating | int %}checked{% endif %}"></span>
-{% endfor %}
+{% if rating | int >= 0 %}
+    {% for i in [1,2,3,4,5] %}
+        <span class="fas fa-star {% if i <= rating | int %}checked{% endif %}"></span>
+    {% endfor %}
+{% endif %}
+{%- endmacro -%}
+
+{%- macro not_tested(rating) -%}
+{% if rating | int == -1 %}
+    <span class="fas fa-vial" title="Recette à tester !"></span>
+{% endif %}
 {%- endmacro -%}
 
 {% macro Search_scat(parent, site_url, articles) %}

@@ -1,6 +1,6 @@
 Title: Peanut butter cookies
 Category: Dessert/Petits Gateaux
-Tags: cookies
+Tags: cookies, cacahuète
 Author: Julie Andrieu
 Date:  2020-12-21 17:40
 Image: peanut-cookies.jpg

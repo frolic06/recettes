@@ -1,8 +1,9 @@
 Title: Velouté de chou-fleur aux cacahuètes
 Category: Soupe
-Tags: soupe, chou-fleur
+Tags: soupe, chou-fleur, cacahuète
 Summary: Un velouté qui change et qui surprend
 Date:  2021-02-05 17:41
+Rating: -1
 
 ## Ingrédients
 - 1 chou-fleur

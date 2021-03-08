@@ -2,7 +2,8 @@ Title: Amaretti au citron et à la fleur d’oranger
 Category: Dessert/Petits Gateaux
 Tags: oeuf (blanc), italien
 Date:  2020-12-14 15:42
-Summary: Des amaretti moelleux au citron et parfumés à la fleur d’oranger 
+Summary: Des amaretti moelleux au citron et parfumés à la fleur d’oranger
+Rating: -1
 
 ## Ingrédients
 - 200 g de poudre d'amande
