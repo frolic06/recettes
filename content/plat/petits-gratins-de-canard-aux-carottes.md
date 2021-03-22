@@ -3,6 +3,7 @@ Category: Plat/Gratins
 Tags: canard, carotte
 Summary:
 Date:  2020-11-11 17:40
+Image: gratin-canard.jpg
 
 ## Ingrédients
 
