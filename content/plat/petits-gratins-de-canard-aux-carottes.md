@@ -7,18 +7,19 @@ Image: gratin-canard.jpg
 
 ## Ingrédients
 
-- 3 Cuisses de canard confites
-- 6 Carottes
+- 3 cuisses de canard confites
+- 6 carottes
 - 30 cl Bouillon de volaille
-- 2 Cébettes
+- 2 cébettes
 
 > Pour la béchamel :
-- 50 g Beurre
-- 50 g Farine
-- 60 cl Lait entier
-- 25 g Comté râpé
-- Muscade
-- Sel, poivre
+
+- 50 g beurre
+- 50 g farine
+- 60 cl lait
+- 25 g de comté râpé
+- muscade
+- sel, poivre
 
 ## Préparation
 

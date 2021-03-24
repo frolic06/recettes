@@ -3,6 +3,7 @@ Category: Plat/Viandes
 Tags: poulet, tajine, abricot
 Summary:
 Date:  2021-03-22 17:42
+Rating: -1
 
 ## Ingrédients
 - 4 blancs de poulet
