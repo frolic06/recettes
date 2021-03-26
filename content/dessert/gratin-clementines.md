@@ -1,5 +1,5 @@
 Title: Gratin de clémentines à la fleur d'oranger
-Category: Dessert
+Category: Dessert/Fruits
 Tags: clémentine
 Summary: Un dessert léger avec des clémentines 🍊
 Date:  2020-11-06 12:42
