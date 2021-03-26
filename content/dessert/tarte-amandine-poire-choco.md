@@ -3,7 +3,8 @@ Category: Dessert/Tartes
 Tags: poire, chocolat
 Summary:
 Date:  2021-03-24 17:41
-Rating: -1
+Image: tarte-poire-choco.jpg
+Rating: 5
 
 ## Ingrédients
 
