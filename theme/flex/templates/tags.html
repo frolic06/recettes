@@ -16,7 +16,7 @@
           {% set tag_first = 'e' %}
         {% endif %}
         {% if tag_first != previous_tag.tag %}
-        <p>{{ tag_first|upper }}</p>
+        <p class="tag-letter">{{ tag_first|upper }}</p>
         {% endif %}
           <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> ({{ articles|count }})</li>
 

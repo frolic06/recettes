@@ -47,3 +47,24 @@ span.pagination-current {
 .checked {
     color: #ff5a09;
 }
+
+p.tag-letter {
+    margin: 20px 0px -22px -23px;
+    font-size: 1.2em;
+}
+
+@media (min-width: 576px) {
+    ul.list {
+        columns: 3;
+    }
+}
+@media (min-width: 1200px) {
+    ul.list {
+        columns: 4;
+    }
+}
+@media (max-width: 576px) {
+    ul.list {
+        columns: 2;
+    }
+}
