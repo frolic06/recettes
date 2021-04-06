@@ -8,7 +8,7 @@
     <h1 id="tags">Par labels:</h1>
   </header>
   <div>
-    <ul class="list">
+    <ul class="list list-cols">
       {% set previous_tag = {'tag': False} %}
       {%- for tag, articles in tags|sort %}
         {% set tag_first = tag.name|first %}

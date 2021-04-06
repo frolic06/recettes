@@ -54,17 +54,17 @@ p.tag-letter {
 }
 
 @media (min-width: 576px) {
-    ul.list {
+    ul.list-cols {
         columns: 3;
     }
 }
 @media (min-width: 1200px) {
-    ul.list {
+    ul.list-cols {
         columns: 4;
     }
 }
 @media (max-width: 576px) {
-    ul.list {
+    ul.list-cols {
         columns: 2;
     }
 }
