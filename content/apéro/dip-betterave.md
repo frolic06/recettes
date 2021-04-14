@@ -3,6 +3,8 @@ Category: Apéro/Dips
 Tags: betterave
 Summary: Recette de dip à la betterave (facile, rapide)
 Date:  2020-10-26 12:46
+Image: dip-bettrave.jpg
+Rating: 4
 
 ## Ingrédients
 - 3 betteraves
