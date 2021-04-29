@@ -1,7 +1,7 @@
 Title: Samoussas aux légumes à l'Indienne
 Category: Apéro/Tapas
 Tags: brick, veggie, indien
-Summary: Des samoussas pour l'apéro par exemple (avec la pête à samoussa)
+Summary: Des samoussas pour l'apéro par exemple
 Date: 2020-11-11 12:46
 
 ## Ingrédients
