@@ -104,6 +104,7 @@
 
   <title>{% block title %}{% endblock %}| {{ SITENAME }}</title>
 
+  <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/sticky.js"></script>
 </head>
 <body {% if not THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE %}class="{{ THEME_COLOR|default('light') }}-theme"{% endif %}>
   <aside>
@@ -129,7 +130,7 @@
       {% endif %}
 
       {% if pages or LINKS %}
-      <nav>
+      <nav id="navbar">
         <ul class="list">
           {# Open links in new window depending on the LINKS_IN_NEW_TAB setting #}
           {% macro get_target(link) -%}
