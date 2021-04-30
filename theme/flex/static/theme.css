@@ -67,4 +67,18 @@ p.tag-letter {
     ul.list-cols {
         columns: 2;
     }
+
+    aside div img {
+        max-width: 80px;
+    }
+    aside div {
+        padding: 4px;
+    }
+    aside h1 {
+        font-size: 2em;
+    }
+}
+
+aside div img {
+    border-radius: 0;
 }
