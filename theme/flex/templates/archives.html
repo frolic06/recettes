@@ -9,10 +9,13 @@
   </header>
   <div>
     <dl>
-      {% set previous_date = {'date': False} %}
+      {% set previous_date = {'date': False, 'year': False} %}
       {% for article in dates %}
+        {% if article.date.year != previous_date.year %}
+          <h4>{{ article.date.year }}</h4>
+        {% endif %}
         {% if article.locale_date != previous_date.date %}
-          {% set test = previous_date.update({'date': article.locale_date}) %}
+          {% set test = previous_date.update({'date': article.locale_date, 'year': article.date.year}) %}
           <dt>{{ article.locale_date }}</dt>
         {% endif %}
         <dd>
