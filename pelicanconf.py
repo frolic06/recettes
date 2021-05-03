@@ -24,6 +24,9 @@ THEME = "theme/alchemy"
 SITEIMAGE = "images/profile.png"
 
 THEME = "theme/flex"
+
+ROBOTS = "index, follow"
+DISPLAY_PAGES_ON_MENU = False
 ##################################
 MAIN_MENU = True
 HOME_HIDE_TAGS = False
