@@ -2,7 +2,8 @@ Title: Tarte fraîcheur au chèvre et concombre mariné
 Category: Plat/Quiches
 Tags: concombre, chèvre
 Date:  2021-04-26 17:40
-Summary: 
+Summary:  
+Image: tarte-concombre.jpg
 
 ## Ingrédients
 
