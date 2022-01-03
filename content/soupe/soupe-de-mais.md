@@ -2,6 +2,7 @@ Title: Soupe de maïs
 Category: Soupe
 Tags: soupe, facile, rapide
 Summary: Soupe américaine au maïs
+Date:  2020-10-23 12:40
 
 - Préparation : 10 min
 - Cuisson : 15 min
@@ -11,7 +12,7 @@ Summary: Soupe américaine au maïs
 - 1	Pomme de terre
 - 2	Oignons jaunes
 - 50 cl Bouillon de volaille
-- 15 cl  liquide entière
+- 15 cl liquide entière
 - Tabasco
 - Poivre noir, sel fin
 

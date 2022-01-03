@@ -1,15 +1,16 @@
 Title: Soupe de carottes, lait de coco et gingembre 
 Category: Soupe
-Tags: soupe, facile
-Summary: Soupe de carottes, lait de coco et gingembre 
+Tags: soupe, facile, carotte
+Summary: Soupe de carottes, lait de coco et gingembre
+Date:  2020-10-23 12:40
 
 ## Ingrédients
 - 1	Échalote 	
-- 6 Carotte
+- 6 Carottes
 - 2 Pommes de terre 	
 - 20 cl Lait de coco
 - 1 Citronnelle
-- 2 c-à-s Gingembre moulu 	
+- 2 c à s Gingembre moulu 	
 - 4 brins Persil
 - Huile d'olive 
 - Poivre noir, sel fin

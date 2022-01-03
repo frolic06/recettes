@@ -3,6 +3,7 @@ Category: Pain
 Tags: pain, apéro, alsacien
 Summary: Petits pains salés à garnir
 Author: Pat
+Date:  2020-10-30 12:40
 
 ## Ingrédients
 > Pour 12 moricettes.

@@ -3,6 +3,7 @@ Category: Pain
 Tags: pain, apéro
 Summary: Petits pains plats pour sandwich, pour tremper dans du houmous...
 Author: Melle Pigu
+Date:  2020-10-30 12:46
 
 ## Ingrédients
 > Pour 4 pains.
@@ -10,7 +11,7 @@ Author: Melle Pigu
 - 150 g de farine de blé (½ complète) + un peu pour fariner la surface de travail
 - 1 pincée de sel
 - 100 ml d'eau
-- 1 ou 2 c. à s d'huile pour la cuisson
+- 1 ou 2 c à s d'huile pour la cuisson
 
 ## Préparation
 1. Dans un saladier, mélanger la farine, le sel, l'eau et malaxer.
