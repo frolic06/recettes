@@ -1,6 +1,6 @@
 Title: Galette des rois aux framboises
 Category: Dessert/Gateaux
-Tags: orange
+Tags: galette, framboise
 Date:  2022-01-18 23:42
 Summary: 
 Rating: -1
