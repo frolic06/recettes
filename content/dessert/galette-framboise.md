@@ -16,12 +16,12 @@ Rating: -1
 
 ## Préparation
 
-Préchauffer le four à 180°C.
-Faire fondre le beurre.
-Dans un bol, mélanger le beurre avec le sucre à l’aide d’un fouet.
-Ajouter les oeufs puis la poudre d’amande. Mélanger à nouveau.
-Étaler une pâte feuilletée sur une plaque recouverte de papier sulfurisé puis disposer la frangipane au centre en laissant 4 cm vides sur les bords.
-Répartir les framboises fraîches sur la frangipane.
-Recouvrir avec la seconde pâte feuilletée puis souder les bords en appuyant dessus.
-Badigeonner le dessus de la galette avec le jaune d’oeuf puis réaliser des motifs pour la décoration.
-Enfourner la galette 30 minutes, jusqu’à ce qu’elle soit bien dorée.
+1. Préchauffer le four à 180°C.
+2. Faire fondre le beurre.
+3. Dans un bol, mélanger le beurre avec le sucre à l’aide d’un fouet.
+4. Ajouter les oeufs puis la poudre d’amande. Mélanger à nouveau.
+5. Étaler une pâte feuilletée sur une plaque recouverte de papier sulfurisé puis disposer la frangipane au centre en laissant 4 cm vides sur les bords.
+6. Répartir les framboises fraîches sur la frangipane.
+7. Recouvrir avec la seconde pâte feuilletée puis souder les bords en appuyant dessus.
+8. Badigeonner le dessus de la galette avec le jaune d’oeuf puis réaliser des motifs pour la décoration.
+9. Enfourner la galette 30 minutes, jusqu’à ce qu’elle soit bien dorée.
