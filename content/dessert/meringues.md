@@ -1,5 +1,5 @@
 Title: Meringues pour les nuls !
-Category: Dessert/Petits Gateaux
+Category: Dessert/Bases
 Tags: oeuf (blanc)
 Date:  2020-11-09 17:42
 Summary: Effectivement c’est une tuerie comme comme on dit maintenant !!!

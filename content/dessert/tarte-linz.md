@@ -1,7 +1,7 @@
 Title: Tartes de Linz
 Category: Dessert/Petits Gateaux
 Tags: alsacien
-Summary: Pour des tartelettes
+Summary: Pour des tartelettes (ou pour une grande tarte)
 Author: Mam
 Date:  2022-01-18 19:07
 

@@ -106,6 +106,9 @@ p.tag-letter {
     .sticky+.content {
         padding-top: 60px;
     }
+    article div li {
+        padding-bottom: 4px;
+    }
 }
 
 aside div img {

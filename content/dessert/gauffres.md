@@ -1,5 +1,5 @@
 Title: Gauffres classiques
-Category: Dessert/Gateaux
+Category: Dessert/Bases
 Tags: gauffrier
 Summary: Recette pour le gauffrier...
 Date:  2022-01-03 19:07
