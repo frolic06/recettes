@@ -62,9 +62,7 @@
   <div>
     {{ article.content }}
   </div>
-
   {% include "partial/neighbors.html" %}
-
   {% if article.related_posts %}
   <div class="related-posts">
     <h4>{{ _('You might enjoy') }}</h4>
@@ -75,7 +73,6 @@
     </ul>
   </div>
   {% endif %}
-
   {% include "partial/disqus.html" %}
   {% include "partial/isso.html" %}
 </article>
