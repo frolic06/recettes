@@ -116,11 +116,7 @@
         <img src="{{ url(SITEIMAGE) }}" alt="{{ SITETITLE }}" title="{{ SITETITLE }}">
         {% endif %}
       </a>
-
-      <h1>
-        <a href="{{ SITEURL }}/">{{ SITETITLE }}</a>
-      </h1>
-
+      <h1><a href="{{ SITEURL }}/">{{ SITETITLE }}</a></h1>
       {% if SITESUBTITLE %}<p>{{ SITESUBTITLE }}</p>{% endif %}
 
       {% if PLUGINS and 'tipue_search' in PLUGINS %}
@@ -142,7 +138,6 @@
             _self
             {%- endif -%}
           {%- endmacro %}
-
           {% if PAGES_SORT_ATTRIBUTE -%}
             {% set pages = pages|sort(attribute=PAGES_SORT_ATTRIBUTE) %}
           {%- endif %}
@@ -190,7 +185,6 @@
     {% block page_header %}{% endblock %}
     {% block content %}
     {% endblock %}
-
     <footer>
       {% if MAIN_MENU %}
       <nav>
@@ -211,7 +205,6 @@
       });
     </script>
   {% endif %}
-
   {% block additional_js %}{% endblock %}
 </body>
 </html>

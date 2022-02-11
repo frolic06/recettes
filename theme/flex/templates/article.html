@@ -34,12 +34,7 @@
       {% for subcategory in article.subcategories %}
       <a href="{{ SITEURL }}/{{ subcategory.url }}">({{ subcategory.shortname }})</a>
       {% endfor %}
-      de <a href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a> publié le 
-      {{ article.locale_date }}
-
-      {% if PLUGINS and 'post_stats' in PLUGINS %}
-        &#8226; {{ _('%(minutes)s min read', minutes=article.stats['read_mins']) }}
-      {% endif %}
+      de <a href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a> publié le {{ article.locale_date }}
     </p>
   </header>
 

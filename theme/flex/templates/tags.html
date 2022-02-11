@@ -19,7 +19,6 @@
         <p class="tag-letter">{{ tag_first|upper }}</p>
         {% endif %}
           <li><a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> ({{ articles|count }})</li>
-
           {% set test = previous_tag.update({'tag': tag_first}) %}
       {% endfor %}
     </ul>
