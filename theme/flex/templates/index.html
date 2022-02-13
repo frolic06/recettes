@@ -12,11 +12,8 @@
   <header>
     <h2><a href="{{ SITEURL }}/{{ article.url }}{% if not DISABLE_URL_HASH %}#{{ article.slug }}{% endif %}">{{ article.title }} 
       {% if article.rating %} {{ helper.not_tested(article.rating) }} {% endif %} </a></h2>
-    {% if article.rating %}
-    <p>{{ helper.star(article.rating) }}</p>
-    {% endif %}
-    <p>
-      Recette de <a href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a> dans 
+    {% if article.rating %}<p>{{ helper.star(article.rating) }}</p>{% endif %}
+    <p>Recette de <a href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a> dans 
       <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a>
       {% for subcategory in article.subcategories %}
       <a href="{{ SITEURL }}/{{ subcategory.url }}">({{ subcategory.shortname }})</a>
@@ -28,14 +25,9 @@
               <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% if not loop.last %},{% endif %}
           {% endfor %}
       {% endif %}
-
-      {% if PLUGINS and 'post_stats' in PLUGINS %}
-        &#8226; {{ _('%(minutes)s min read', minutes=article.stats['read_mins']) }}
-      {% endif %}
     </p>
   </header>
   <div>
-
     {% if summarise or article.metadata['summary'] or SUMMARY_MAX_LENGTH %}
       {% if  article.image %}
       <div class="image-container">
@@ -54,9 +46,6 @@
     {% endif %}
   </div>
 </article>
-
 {% endfor %}
-
 {% include "partial/pagination.html" %}
-
 {% endblock %}
