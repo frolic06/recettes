@@ -27,8 +27,6 @@ function ThemeManager(options) {
     // (Dis|En)able the styles according to the user's desired theme.  Get rid
     // of the media queries, since we are handling it in JS.
     setEnabledAndDisableMediaQuery('dark-theme-style', theme === 'dark');
-    setEnabledAndDisableMediaQuery('pygments-dark-theme', theme === 'dark');
-    setEnabledAndDisableMediaQuery('pygments-light-theme', theme === 'light');
 
     if (theme === 'dark') {
       document.body.classList.add('dark-theme');
