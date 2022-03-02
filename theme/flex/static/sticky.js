@@ -19,3 +19,38 @@ function onScroll() {
     }
   }
 }
+
+function addClass() {
+  const el = document.querySelector("#btn-fav");
+  el.classList.add('favorite');
+}
+
+function removeClass() {
+  const el = document.querySelector("#btn-fav");
+  el.classList.remove('favorite');
+}
+
+function addClassForFav() {
+  const myFavs = localStorage.getItem('my-favs');
+  if (myFavs && theArticle !== undefined) {
+    const favs = JSON.parse(myFavs);
+    const index = favs.findIndex(f => f.title === theArticle.title);
+    if (index >= 0) {
+      addClass();
+    }
+  } 
+}
+
+function addFav() {
+  const myFavs = localStorage.getItem('my-favs');
+  let favs = (myFavs) ? JSON.parse(myFavs) : [];
+  const index = favs.findIndex(f => f.title === theArticle.title);
+  if (index === -1) {
+    favs.push(theArticle);
+    addClass();
+  } else {
+    favs.splice(index, 1);
+    removeClass();
+  }
+  localStorage.setItem('my-favs', JSON.stringify(favs));
+}

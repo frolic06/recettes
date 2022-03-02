@@ -19,6 +19,12 @@
 
 {% import 'partial/helper.html' as helper %}
 {% block content %}
+<script>
+  theArticle = {
+    url: '{{ SITEURL }}/{{ article.url }}',
+    title: '{{ article.title }}'
+  }
+</script>
 <article class="single">
   <header>
     {% if not ARTICLE_HIDE_TRANSLATION %}
@@ -35,6 +41,7 @@
       <a href="{{ SITEURL }}/{{ subcategory.url }}">({{ subcategory.shortname }})</a>
       {% endfor %}
       de <a href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a> publié le {{ article.locale_date }}
+      <button class="btn" id="btn-fav"><i class="fas fa-heart"></i></button>
     </p>
   </header>
 

@@ -52,7 +52,9 @@
       {% endif %}
     href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/stylesheet/dark-theme.min.css">
   {% endif %}
-
+<script>
+  var theArticle = {}
+</script>
   {% if PLUGINS and 'tipue_search' in PLUGINS %}
     <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/tipuesearch/jquery.min.js"></script>
     <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/tipuesearch/tipuesearch.min.js"></script>
@@ -206,5 +208,10 @@
     </script>
   {% endif %}
   {% block additional_js %}{% endblock %}
+  <script>
+    const el = document.querySelector("#btn-fav");
+    if (el) { el.addEventListener("click", addFav, false); }
+    addClassForFav();
+  </script>
 </body>
 </html>
