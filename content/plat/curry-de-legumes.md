@@ -1,6 +1,6 @@
 Title: Curry de légumes
 Category: Plat/Légumes
-Tags: veggie, thailandais
+Tags: veggie, thailandais, poireau, carotte, patate douce
 Summary: Curry thaïlandais, crémeux et riche en parfum, à servir avec un riz basmati 🍚
 Date:  2020-11-04 17:44
 Image: curry-de-legumes.jpg
