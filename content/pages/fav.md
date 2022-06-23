@@ -4,7 +4,7 @@ Retrouver ici toutes vos recettes préférées.
 
 <div id="fav"></div>
 
-Pour ajouter / enlever un favori, cliquer sur le ♥ à côté du titre de la recette.
+Pour ajouter / enlever un favori, cliquer sur le <i class="fas fa-heart"></i> sous le titre de la recette (uniquement dans la page de la recette).
 
 <script>
     const favs = localStorage.getItem('my-favs');

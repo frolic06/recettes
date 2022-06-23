@@ -161,7 +161,10 @@
           <li>
             <a href="{{ SITEURL }}/{{ TAGS_URL or TAGS_SAVE_AS or 'tags.html' }}"><i class="fas fa-tag"></i> Labels </a>
           </li>
-
+          <li>
+            <a href="{{ SITEURL }}/pages/favoris.html"><i class="fas fa-heart"></i> Favoris </a>
+          </li>
+          
           {% for name, link in LINKS %}
             <li>
               <a target="_blank" href="{{ link }}" ><i class="fas fa-link"></i> {{ name }}</a>
