@@ -4,6 +4,7 @@ Tags:
 Date: 2022-09-02 18:40
 Author: Gasou
 Summary: La recette de Gasou
+Image: galette-beurlay.jpg
 Rating: 5
 
 ## Ingrédients

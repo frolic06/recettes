@@ -3,7 +3,8 @@ Category: Apéro/Dips
 Tags: carotte
 Date: 2022-06-27 19:12
 Summary: Pesto de carottes: pour mettre sur les pâtes, sandwichs... 
-Rating: -1 
+Image: pesto-carotte.jpg
+Rating: 3 
 
 ## Ingrédients
 

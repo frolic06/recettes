@@ -2,6 +2,8 @@ Title: Parmigiana d'aubergines
 Category: Plat/Légumes
 Tags: aubergine
 Author: Gasou
+Image: parmigiana.jpg
+Rating: 5
 Summary: 
 Date: 2022-09-09 12:46
 
