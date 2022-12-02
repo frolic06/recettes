@@ -1,6 +1,6 @@
 Title: Tajine de carottes et pois chiches
 Category: Plat/Légumes
-Tags: tajine, carotte
+Tags: tajine, carotte, pois chiches
 Summary:
 Date:  2021-03-26 17:42
 Rating: -1

@@ -19,8 +19,8 @@ Date: 2020-12-01 17:42
 
 - 1 kg d’oignons
 - 50 ml d’huile d’olive
-- 1 bouquet garni
-- 1 gousse d’ail
+- 4 filets d'anchois 
+- 1 bouquet garni (origan + thym)
 
 > Décoration
 
@@ -29,7 +29,7 @@ Date: 2020-12-01 17:42
 - petites feuilles de basilic
 
 ## Préparation
-1. Epluchez les oignons, émincez-les finement et mettez-les dans une grosse casserole avec l’huile d’olive, la gousse d’ail et le bouquet garni. Salez, poivrez, couvrez et laissez cuire à feu doux pendant 45 minutes. Retirez l’ail en fin de cuisson.
+1. Epluchez les oignons, émincez-les finement et mettez-les dans une grosse casserole avec l’huile d’olive et le bouquet garni. Salez, poivrez, couvrez et laissez cuire à feu doux pendant 45 minutes. Ajouter les filets d'anchois en cours de cuisson.
 
 2. Préparer le levain : sur un plan de travail ou dans un cul de poule, mettez 60 g de farine, y creuser une fontaine et ajouter la levure délayée dans un peu d’eau tiède. Mélangez le tout pour obtenir une boule de pâte et laissez-la reposer recouverte d’un linge. En une demi-heure, la pâte doit doubler de volume.
 

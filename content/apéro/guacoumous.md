@@ -1,6 +1,6 @@
 Title: Guacoumous
 Category: Apéro/Dips
-Tags: houmous, facile
+Tags: houmous, facile, pois chiches
 Summary: Est-ce de l'houmous ? Est-ce du guacamole ? Je ne saurais dire, mais je vais le manger quand même !
 Date: 2020-10-26 12:46
 Image: guacoumous.jpg

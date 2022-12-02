@@ -1,6 +1,6 @@
 Title: Houmous
 Category: Apéro/Dips
-Tags: houmous, libanais, facile
+Tags: houmous, libanais, facile, pois chiches
 Summary: L'houmous traditionnel
 Date: 2020-10-26 12:46
 Image: houmous.jpg
