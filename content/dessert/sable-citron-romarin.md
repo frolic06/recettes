@@ -1,9 +1,10 @@
 Title: Sablé citron romarin
 Category: Dessert/Petits Gateaux
-Tags: 
+Tags: citron
 Date:  2022-12-16 18:42
 Image: sable-citron-romarin.jpg
 Summary:
+Rating: 5
 
 ## Ingrédients
 
