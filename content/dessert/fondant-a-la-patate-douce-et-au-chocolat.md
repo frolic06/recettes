@@ -1,6 +1,6 @@
 Title: Fondant à la patate douce et au chocolat
 Category: Dessert/Gateaux
-Tags: patate douce
+Tags: patate douce, chocolat
 Date: 2023-02-08 22:17
 Summary: 
 Rating: -1 
