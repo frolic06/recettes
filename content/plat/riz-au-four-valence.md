@@ -1,6 +1,6 @@
 Title: Riz espagnol au four (Valence)
 Category: Plat/Riz
-Tags: riz
+Tags: riz, espagnol
 Date: 2023-02-17 19:43
 Summary: Recette de Valence
 Author: Didiou
