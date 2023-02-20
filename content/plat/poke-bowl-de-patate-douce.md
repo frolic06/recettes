@@ -1,6 +1,6 @@
 Title: Poke bowl de patate douce
 Category: Plat/Légumes
-Tags: patate douce
+Tags: patate douce, brocoli
 Date: 2023-02-20 22:10
 Summary: 
 Rating: -1 

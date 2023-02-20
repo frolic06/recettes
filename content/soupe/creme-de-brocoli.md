@@ -1,6 +1,6 @@
 Title: Crème de brocoli
 Category: Soupe
-Tags: brocolis, poireau
+Tags: brocoli, poireau
 Date: 2023-02-20 21:57
 Summary: 
 Rating: -1 
