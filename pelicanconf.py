@@ -79,5 +79,6 @@ WELCOME_MESSAGE = SIDEBAR_DIGEST = SITESUBTITLE = DESCRIPTION
 # ARTICLE_ORDER_BY = 'Title'
 # PAGE_ORDER_BY = 'Title'
 
+SIMILAR_POSTS_MAX_COUNT = 3
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['subcategory']
+PLUGINS = ['subcategory', 'similar_posts']

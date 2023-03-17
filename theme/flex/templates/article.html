@@ -65,12 +65,12 @@
     {{ article.content }}
   </div>
   {% include "partial/neighbors.html" %}
-  {% if article.related_posts %}
+  {% if article.similar_posts %}
   <div class="related-posts">
-    <h4>{{ _('You might enjoy') }}</h4>
+    {{ _('Recettes similaires:') }}
     <ul class="related-posts">
-    {% for related_post in article.related_posts %}
-      <li><a href="{{ SITEURL }}/{{ related_post.url }}">{{ related_post.title }}</a></li>
+    {% for similar in article.similar_posts %}
+      <li><a href="{{ SITEURL }}/{{ similar.url }}">{{ similar.title }}</a></li>
     {% endfor %}
     </ul>
   </div>
