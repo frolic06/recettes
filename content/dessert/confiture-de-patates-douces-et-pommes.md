@@ -1,5 +1,5 @@
 Title: Confiture de patates douces et pommes
-Category: Recette/Confitures
+Category: Dessert/Confitures
 Tags: pomme, patate douce
 Summary: Recette pour de la confiture de patates douces et pommes.
 Date: 2023-03-19 15:13
