@@ -1,16 +1,20 @@
-Title: Samoussas aux légumes à l'Indienne
+Title: Samoussas aux légumes à l'indienne
 Category: Apéro/Tapas
 Tags: brick, veggie, indien
 Summary: Des samoussas pour l'apéro par exemple
 Date: 2020-11-11 12:46
 
 ## Ingrédients
+
 > Pâte à samoussa:
+
 - 300 g de farine
 - 100 g de beurre fondu
 - 150 ml d'eau
 - 25 g de maïzena
+
 > Farce aux pommes de terre:
+
 - 2 pommes de terre
 - 150 g de petits pois (ou un autre légume: courgette...)
 - 1 oignon
@@ -27,9 +31,11 @@ Date: 2020-11-11 12:46
 
 ## Préparation
 > Préparer la pâte (*on peut aussi utiliser des bricks tout prêts à la place*):
+
 1. Tamiser la farine et la maïzena, ajoutez le sel et le beurre fondu, sabler avec les doigts jusqu’à absorption complète du beurre, mouiller doucement avec l’eau en pétrissant jusqu’à ce que la pâte soit lisse, laisser la pâte reposer.
 
 > Farce:
+
 1. Éplucher les pomme de terre. Les couper en cubes et les cuire dans de l'eau salée jusqu'à ce qu'elles soient tendre. Écraser à la fourchette et réserver.
 2. Cuire les petits pois dans une eau salée ou à la vapeur. Égoutter et réserver.
 3. Chauffer l'huile dans une poêle et faire revenir l'oignon jusqu'à ce qu'il soit doré.
