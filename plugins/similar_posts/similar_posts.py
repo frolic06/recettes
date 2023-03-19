@@ -64,9 +64,12 @@ def add_similar_posts(generator):
             [(idx, score) for idx, score in enumerate(scores) if score >= min_score],
             key=lambda idx_score: (idx_score[1], generator.articles[idx_score[0]].date),
             reverse=True,
-        )[:max_count]
+        )
 
-        article.similar_posts = [generator.articles[idx] for idx, _ in selected]
+        article.similar_posts = [
+            generator.articles[idx] for idx, _ in selected 
+            if article.category.name[:3] == generator.articles[idx].category.name[:3]
+            ][:max_count]
 
         logger.debug(
             "{article}: similar_posts scores: {scores}".format(
