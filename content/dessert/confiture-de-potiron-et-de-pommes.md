@@ -2,6 +2,7 @@ Title: Confiture de potiron et de pommes
 Category: Dessert/Confitures
 Tags: potiron, pomme
 Date: 2022-12-01 19:31
+Image: confiture-potiron.jpg
 Summary: 
 Rating: -1 
 
