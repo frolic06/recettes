@@ -11,8 +11,8 @@ Une crème de citron ou lemon curd au micro-onde aux oeufs entiers, facile, rapi
 ## Ingrédients
 - 3 oeufs
 - 1 jaune d'oeuf
-- 115 gr de beurre fondu et légèrement refroidi
-- 200 gr de sucre
+- 115 g de beurre fondu et légèrement refroidi
+- 200 g de sucre
 - 240 ml de jus de citron (on peut remplace le ⅓ par du jus d'orange)
 - zeste d'1 citron
 

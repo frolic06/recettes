@@ -9,12 +9,12 @@ Cuisson: 40 min
 
 ## Ingrédients
 - 2 rouleaux de pâte feuilletée
-- 500 gr de choucroute cuite
+- 500 g de choucroute cuite
 - 1 oignon
 - huile
 - 2 œufs
 - 20 cl de crème fraîche liquide
-- 200 gr d'emmental râpé (facultatif)
+- 200 g d'emmental râpé (facultatif)
 - 330 g de saumon cru
 - sel, poivre
 

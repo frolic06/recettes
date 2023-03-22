@@ -12,7 +12,7 @@ Date: 2022-09-09 12:46
 
 - 1,5 kg d’aubergines noires
 - 1 kg de passata de tomates
-- 500 g de mozzarella ‘Fiordilatte’
+- 500 g de mozzarella Fior di latte
 - 150 g de parmesan râpé
 - 1 oignon jaune
 - huile d’olive, huile de tournesol (friture)
