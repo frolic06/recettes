@@ -1,4 +1,4 @@
-Title: Lasagnes chèvre-épinards
+Title: Lasagnes chèvre épinards
 Category: Plat/Pasta
 Tags: chèvre, épinard, lasagne
 Summary: Un bon plat de lasagnes au fromage de chèvre et aux épinards

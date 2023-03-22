@@ -22,7 +22,7 @@ Rating: 3
 
 
 ## Préparation
-1. Pelez et coupez la patate douce en petits cubes. Chauffez 2 cuil. à soupe d’huile dans une sauteuse et faites fondre les oignons émincés, sans coloration. Ajoutez les patates douces et le romarin effeuillé. Salez, poivrez, versez un verre d’eau et poursuivez la cuisson 15 min.
+1. Pelez et coupez la patate douce en petits cubes. Chauffez 2 c à s d’huile dans une sauteuse et faites fondre les oignons émincés, sans coloration. Ajoutez les patates douces et le romarin effeuillé. Salez, poivrez, versez un verre d’eau et poursuivez la cuisson 15 min.
 2. Préchauffez le four à 180 °C. Râpez la mimolette. Dans un saladier, fouettez les œufs avec la farine tamisée, la fécule et la levure. Versez le reste d’huile et le lait. Salez et poivrez. Mélangez puis incorporez les légumes et la mimolette.
 3. Huilez un moule à cake. Versez-y la pâte et enfournez pour 45 min. Laissez tiédir le cake avant de le trancher. Servez accompagné d’une salade verte.
 

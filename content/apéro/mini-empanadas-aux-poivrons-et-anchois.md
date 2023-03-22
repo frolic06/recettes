@@ -19,6 +19,6 @@ Date:  2020-11-11 18:26
 ## Préparation
 
 1. Pelez la tomate, retirez les graines et l’excédent de jus. Coupez-la en dés et mélangez-la avec les poivrons en lanières, les anchois hachés, le basilic ciselé, l’ail pressé, du sel et du poivre.
-2. Coupez 6 ronds dans chaque rouleau de pâte et humidifiez les bords. Garnissez-les d’1 cuil. à soupe de farce et repliez-les ronds. Pincez les bords pour les souder et badigeonnez de jaune d’oeuf.
+2. Coupez 6 ronds dans chaque rouleau de pâte et humidifiez les bords. Garnissez-les d’une c à s de farce et repliez-les ronds. Pincez les bords pour les souder et badigeonnez de jaune d’oeuf.
 
 Enfournez à 180 °C (th. 6) pour 20 min.

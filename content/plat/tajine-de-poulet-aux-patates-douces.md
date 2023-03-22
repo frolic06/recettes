@@ -8,15 +8,15 @@ Préparation: 25 mn
 Cuisson: 45 mn
 
 ## Ingrédients
-- 1 poulet de 1.5kg de préférence fermier
+- 1 poulet de 1.5 kg de préférence fermier
 - 2 tomates
 - 3 patates douces
 - 1 oignon
 - 150 g d'amandes émondées
 - 100 g de raisins secs
-- 1 cuil. à café de graines de coriandre
-- 2 cuil. à soupe de graines de sésame
-- 2 cuil. à soupe d'huile
+- 1 c à c de graines de coriandre
+- 2 c à s de graines de sésame
+- 2 c à s d'huile
 - 1 dose de safran
 - sel, poivre
 

@@ -12,7 +12,7 @@ Cuisson : 15 min env.
 - 750 g de farine
 - 375 g de sucre en poudre
 - 70 g de beurre (on peut aussi utiliser la même quantité d'huile)
-- 3 ou 4 eufs (selon la grosseur)
+- 3 ou 4 oeufs (selon la grosseur)
 - 1 c à s de fleur d'oranger
 
 ## Préparation

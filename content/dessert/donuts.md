@@ -1,6 +1,6 @@
 Title: Donuts
 Category: Dessert/Gateaux
-Tags: gauffrier
+Tags: gaufrier
 Summary: Pour environ 24 donuts
 Date:  2022-01-03 19:07
 

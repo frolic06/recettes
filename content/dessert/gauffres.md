@@ -1,7 +1,7 @@
-Title: Gauffres classiques
+Title: Gaufres classiques
 Category: Dessert/Bases
-Tags: gauffrier
-Summary: Recette pour le gauffrier...
+Tags: gaufrier
+Summary: Recette pour le gaufrier...
 Date:  2022-01-03 19:07
 
 ## Ingrédients

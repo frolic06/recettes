@@ -12,7 +12,7 @@ Rating: 5
 - 2 dl de lait tiède
 - 800 g de farine
 - 100 g de sucre
-- 2 ½ cc de sel
+- 2 ½ c à c de sel
 - 4 œufs battus
 - 150 g de beurre
 - 80-120 g de raisins secs (trempés une nuit dans un mélange kirsch / eau sucrée)
