@@ -1,2 +1,4 @@
 pelican[markdown]
 gensim
+beautifulsoup4
+stop-words

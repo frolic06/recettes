@@ -67,7 +67,7 @@
   {% include "partial/neighbors.html" %}
   {% if article.similar_posts %}
   <div class="related-posts">
-    {{ _('Recettes similaires:') }}
+    <p>Recettes similaires:</p>
     <ul class="related-posts">
     {% for similar in article.similar_posts %}
       <li><a href="{{ SITEURL }}/{{ similar.url }}">{{ similar.title }}</a></li>

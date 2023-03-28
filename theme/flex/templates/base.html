@@ -53,8 +53,14 @@
     href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/stylesheet/dark-theme.min.css">
   {% endif %}
 <script>
-  var theArticle = {}
+  var theArticle = {};
 </script>
+{% if PLUGINS and 'simple_search' in PLUGINS %}
+<script>
+  var recettes = [];
+  var search_index = {};
+</script>
+  {% endif %}
   {% if PLUGINS and 'tipue_search' in PLUGINS %}
     <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/tipuesearch/jquery.min.js"></script>
     <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/tipuesearch/tipuesearch.min.js"></script>
@@ -62,6 +68,11 @@
     <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/tipuesearch/tipuesearch_set.min.js"></script>
     <script src="{{ SITEURL }}/tipuesearch_content.js"></script>
     <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/tipuesearch/tipuesearch.min.css" />
+  {% endif %}
+  {% if PLUGINS and 'simple_search' in PLUGINS %}
+    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/simplesearch.min.css" />
+    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/simplesearch.min.js"></script>
+    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/search.min.js"></script>
   {% endif %}
 
   <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/font-awesome/css/fontawesome.css">
@@ -127,6 +138,12 @@
         </form>
       {% endif %}
 
+      {% if PLUGINS and 'simple_search' in PLUGINS %}
+          <div class="autocomplete" > <!-- style="width:300px;" -->
+            <i class="fa fa-search icon"></i>
+            <input id="simple_search_input" type="search" name="query" placeholder="Recherche...">
+          </div>
+      {% endif %}
       {% if pages or LINKS %}
       <nav id="navbar">
         <ul class="list">
@@ -216,5 +233,10 @@
     if (el) { el.addEventListener("click", addFav, false); }
     addClassForFav();
   </script>
+  {% if PLUGINS and 'simple_search' in PLUGINS %}
+  <script>
+    autocomplete(document.getElementById("simple_search_input"), search_index, recettes);
+  </script>
+  {% endif %}
 </body>
 </html>

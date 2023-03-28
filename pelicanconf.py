@@ -20,7 +20,6 @@ AUTHOR_FEED_RSS = None
 
 LOCALE = ('fr_FR')
 
-THEME = "theme/alchemy"
 SITEIMAGE = "images/profile.png"
 
 THEME = "theme/flex"
@@ -83,4 +82,4 @@ SIMILAR_POSTS_MAX_COUNT = 5
 SIMILAR_POSTS_MIN_SCORE = 0.01
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['subcategory', 'similar_posts']
+PLUGINS = ['subcategory', 'similar_posts', 'simple_search']
