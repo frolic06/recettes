@@ -24,7 +24,7 @@ function autocomplete(inp, search_index, recettes) {
                 for (const index of search_index[key]) {
                     /*create a DIV element for each matching element:*/
                     b = document.createElement("DIV");
-                    b.innerHTML += "<a href=\"" + recettes[index].url + "\">" + recettes[index].title + '</a>';
+                    b.innerHTML += "<a href=\"/" + recettes[index].url + "\">" + recettes[index].title + '</a>';
                     /*make the matching letters bold:*/
                     // b.innerHTML = "<strong>" + arr[i].substr(0, val.length) + "</strong>";
                     // b.innerHTML += arr[i].substr(val.length);
