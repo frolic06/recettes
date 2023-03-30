@@ -17,11 +17,16 @@ function autocomplete(inp, search_index, recettes) {
         a.setAttribute("class", "autocomplete-items");
         /*append the DIV element as a child of the autocomplete container:*/
         this.parentNode.appendChild(a);
+        const ids = new Set();
         /*for each item in the array...*/
         for (const key of Object.keys(search_index)) {
             /*check if the item starts with the same letters as the text field value:*/
             if (key.includes(val.toLowerCase())) {
                 for (const index of search_index[key]) {
+                    if (ids.has(index)) {
+                        continue;
+                    }
+                    ids.add(index);
                     /*create a DIV element for each matching element:*/
                     b = document.createElement("DIV");
                     b.innerHTML += "<a href=\"/" + recettes[index].url + "\">" + recettes[index].title + '</a>';
