@@ -22,22 +22,19 @@
   <meta name="HandheldFriendly" content="True" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   {% if page in hidden_pages %}
-    <meta name="robots" content="noindex, nofollow" />
+  <meta name="robots" content="noindex, nofollow" />
   {% else %}
-    <meta name="robots" content="{{ ROBOTS }}" />
+  <meta name="robots" content="{{ ROBOTS }}" />
   {% endif %}
-
   {% if USE_GOOGLE_FONTS != False %}
   <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,400;0,700;1,400&family=Source+Sans+Pro:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
   {% endif %}
-
   {% if USE_LESS %}
     <link rel="stylesheet/less" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/stylesheet/style.less">
     <script src="//cdnjs.cloudflare.com/ajax/libs/less.js/2.5.1/less.min.js" type="text/javascript"></script>
   {% else %}
     <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/stylesheet/style.min.css">
   {% endif %}
-
   {# DARK THEME STYLES #}
   {% if THEME_COLOR == "dark" or THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE or THEME_COLOR_ENABLE_USER_OVERRIDE %}
     <link id="dark-theme-style" rel="stylesheet" type="text/css"
@@ -60,43 +57,21 @@
   var recettes = [];
   var search_index = {};
 </script>
-  {% endif %}
-  {% if PLUGINS and 'tipue_search' in PLUGINS %}
-    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/tipuesearch/jquery.min.js"></script>
-    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/tipuesearch/tipuesearch.min.js"></script>
-    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/tipuesearch/tipuesearch.min.js"></script>
-    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/tipuesearch/tipuesearch_set.min.js"></script>
-    <script src="{{ SITEURL }}/tipuesearch_content.js"></script>
-    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/tipuesearch/tipuesearch.min.css" />
-  {% endif %}
-  {% if PLUGINS and 'simple_search' in PLUGINS %}
-    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/simplesearch.min.css" />
-    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/simplesearch.min.js"></script>
-    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/search.min.js"></script>
-  {% endif %}
-
+  <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/simplesearch.min.css" />
+  <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/simplesearch.min.js"></script>
+  <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/search.min.js"></script>
+{% endif %}
   <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/font-awesome/css/fontawesome.css">
   <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/font-awesome/css/brands.css">
   <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/font-awesome/css/solid.css">
-
   {% if CUSTOM_CSS %}
-    <link href="{{ SITEURL }}/{{ CUSTOM_CSS }}" rel="stylesheet">
+  <link href="{{ SITEURL }}/{{ CUSTOM_CSS }}" rel="stylesheet">
   {% endif %}
-
-  {% if FEED_ALL_ATOM %}
-    <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom">
-  {% endif %}
-
-  {% if FEED_ALL_RSS %}
-    <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS">
-  {% endif %}
-
   {% if FAVICON %}
     <link rel="shortcut icon" href="{{ FAVICON }}" type="image/x-icon">
     <link rel="icon" href="{{ FAVICON }}" type="image/x-icon">
   {% endif %}
   <link rel="icon" type="image/png" href="{{ url(SITEIMAGE) }}" />
-
   {% if BROWSER_COLOR %}
     <!-- Chrome, Firefox OS and Opera -->
     <meta name="theme-color" content="{{ BROWSER_COLOR }}">
@@ -108,15 +83,12 @@
     <!-- Microsoft EDGE -->
     <meta name="msapplication-TileColor" content="{{ BROWSER_COLOR }}">
   {% endif %}
-
   {% block meta %}
     <meta name="author" content="{{ AUTHOR }}" />
     <meta name="description" content="{{ SITEDESCRIPTION }}" />
     {% include "partial/og.html" %}
   {% endblock %}
-
   <title>{% block title %}{% endblock %}| {{ SITENAME }}</title>
-
   <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/sticky.js"></script>
 </head>
 <body {% if not THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE %}class="{{ THEME_COLOR|default('light') }}-theme"{% endif %}>
@@ -131,13 +103,6 @@
       </a>
       <h1><a href="{{ SITEURL }}/">{{ SITETITLE }}</a></h1>
       {% if SITESUBTITLE %}<p>{{ SITESUBTITLE }}</p>{% endif %}
-
-      {% if PLUGINS and 'tipue_search' in PLUGINS %}
-        <form class="navbar-search" action="/search.html" role="search">
-          <input type="text" name="q" id="tipue_search_input" placeholder="{{ _('Search...') }}">
-        </form>
-      {% endif %}
-
       {% if PLUGINS and 'simple_search' in PLUGINS %}
           <div class="autocomplete" > <!-- style="width:300px;" -->
             <i class="fa fa-search icon"></i>
@@ -160,44 +125,18 @@
           {% if PAGES_SORT_ATTRIBUTE -%}
             {% set pages = pages|sort(attribute=PAGES_SORT_ATTRIBUTE) %}
           {%- endif %}
-          <li>
-            <a href="{{ SITEURL }}/"><i class="fas fa-home"></i> Home </a>
-          </li>
+          <li><a href="{{ SITEURL }}/"><i class="fas fa-home"></i> Home </a></li>
           {% import 'partial/helper.html' as helper %}
           {% for category, articles in categories|sort %}
-          <li>
-            <a href="{{ SITEURL }}/{{ category.url }}"><i class="{{ helper.fa_category(category) }}"></i> {{ category }}s</a>
-          </li>
+          <li><a href="{{ SITEURL }}/{{ category.url }}"><i class="{{ helper.fa_category(category) }}"></i> {{ category }}s</a></li>
           {% endfor %}
-          <li>
-            <a href="{{ SITEURL }}/{{ AUTHORS_URL or AUTHORS_SAVE_AS or 'authors.html' }}"><i class="fas fa-user"></i> Auteurs </a>
-          </li>
-          <li>
-            <a href="{{ SITEURL }}/{{ ARCHIVES_URL or ARCHIVES_SAVE_AS or 'archives.html' }}"><i class="fas fa-clock"></i> Archives</a>
-          </li>
-          <li>
-            <a href="{{ SITEURL }}/{{ TAGS_URL or TAGS_SAVE_AS or 'tags.html' }}"><i class="fas fa-tag"></i> Labels </a>
-          </li>
-          <li>
-            <a href="{{ SITEURL }}/pages/favoris.html"><i class="fas fa-heart"></i> Favoris </a>
-          </li>
-          
+          <li><a href="{{ SITEURL }}/{{ AUTHORS_URL or AUTHORS_SAVE_AS or 'authors.html' }}"><i class="fas fa-user"></i> Auteurs </a></li>
+          <li><a href="{{ SITEURL }}/{{ ARCHIVES_URL or ARCHIVES_SAVE_AS or 'archives.html' }}"><i class="fas fa-clock"></i> Archives</a></li>
+          <li><a href="{{ SITEURL }}/{{ TAGS_URL or TAGS_SAVE_AS or 'tags.html' }}"><i class="fas fa-tag"></i> Labels </a></li>
+          <li><a href="{{ SITEURL }}/pages/favoris.html"><i class="fas fa-heart"></i> Favoris </a></li>
           {% for name, link in LINKS %}
-            <li>
-              <a target="_blank" href="{{ link }}" ><i class="fas fa-link"></i> {{ name }}</a>
-            </li>
+          <li><a target="_blank" href="{{ link }}" ><i class="fas fa-link"></i> {{ name }}</a></li>
           {% endfor %}
-
-          {% if DISPLAY_PAGES_ON_MENU %}
-            {% for page in pages %}
-              <li>
-                <a target="{{ get_target(SITEURL) }}"
-                   href="{{ SITEURL }}/{{ page.url }}{% if not DISABLE_URL_HASH %}#{{ page.slug }}{% endif %}">
-                  {{ page.title }}
-                </a>
-              </li>
-            {% endfor %}
-          {% endif %}
         </ul>
       </nav>
       {% endif %}
@@ -211,7 +150,6 @@
       {% if MAIN_MENU %}
       <nav>
         <a href="{{ SITEURL }}/">{{ _('Home') }}</a>
-  
         {% for title, link in MENUITEMS %}
         <a href="{{ link }}">{{ _(title) }}</a>
         {% endfor %}
@@ -220,13 +158,6 @@
       {% include "partial/copyright.html" %}
     </footer>
   </main>
-  {% if PLUGINS and 'tipue_search' in PLUGINS %}
-    <script>
-      $(document).ready(function() {
-        $('#tipue_search_input').tipuesearch();
-      });
-    </script>
-  {% endif %}
   {% block additional_js %}{% endblock %}
   <script>
     const el = document.querySelector("#btn-fav");
@@ -234,9 +165,7 @@
     addClassForFav();
   </script>
   {% if PLUGINS and 'simple_search' in PLUGINS %}
-  <script>
-    autocomplete(document.getElementById("simple_search_input"), search_index, recettes);
-  </script>
+  <script>autocomplete(document.getElementById("simple_search_input"), search_index, recettes);</script>
   {% endif %}
 </body>
 </html>
