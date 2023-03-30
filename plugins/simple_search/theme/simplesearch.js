@@ -23,10 +23,8 @@ function autocomplete(inp, search_index, recettes) {
                     ids.add(index);
                     b = document.createElement("DIV");
                     let title = recettes[index].title.replace(val, stabilo(val))
-                    console.log(title)
                     const capitalized = val.charAt(0).toUpperCase() + val.slice(1);
                     title = title.replace(capitalized, stabilo(capitalized))
-                    console.log(capitalized + "|" + title)
                     b.innerHTML += "<a href=\"/" + recettes[index].url + "\">" + title + '</a>';
                     b.innerHTML += "<input type='hidden' value='/" + recettes[index].url + "'>";
                     b.addEventListener("click", function(e) {
