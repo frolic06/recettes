@@ -25,9 +25,14 @@ function autocomplete(inp, search_index, recettes) {
                     /*create a DIV element for each matching element:*/
                     b = document.createElement("DIV");
                     b.innerHTML += "<a href=\"/" + recettes[index].url + "\">" + recettes[index].title + '</a>';
+                    b.innerHTML += "<input type='hidden' value='/" + recettes[index].url + "'>";
                     /*make the matching letters bold:*/
                     // b.innerHTML = "<strong>" + arr[i].substr(0, val.length) + "</strong>";
                     // b.innerHTML += arr[i].substr(val.length);
+                    b.addEventListener("click", function(e) {
+                        window.location.href = this.getElementsByTagName("input")[0].value;
+                        closeAllLists();
+                    });
                     a.appendChild(b);
                 }
             }
