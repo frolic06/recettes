@@ -34,7 +34,7 @@ input[type=search] {
   padding: 10px;
   cursor: pointer;
   background-color: #302d2d;
-  border-bottom: 1px solid #302d2d;
+  border-bottom: 1px solid #484848;
 }
 .autocomplete-items div:hover {
   background-color: #484848;
