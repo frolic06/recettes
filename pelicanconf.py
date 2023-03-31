@@ -20,7 +20,7 @@ AUTHOR_FEED_RSS = None
 
 LOCALE = ('fr_FR')
 
-SITEIMAGE = "images/profile.png"
+SITEIMAGE = "images/canele2.jpg"
 
 THEME = "theme/flex"
 
@@ -29,6 +29,7 @@ DISPLAY_PAGES_ON_MENU = False
 ##################################
 MAIN_MENU = True
 HOME_HIDE_TAGS = False
+FAVICON = "images/favicon.ico"
 
 SITETITLE=SITENAME
 MENUITEMS = (
