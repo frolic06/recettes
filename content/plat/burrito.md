@@ -20,7 +20,7 @@ Facultatif :
 - Un peu de jus de citron vert frais
 - 1 avocat, coupé en dés
 
-## Préparation:
+## Préparation
 
 1. Faire chauffer l’huile dans une casserole de taille moyenne à feu moyen vif
 2. Ajouter l’oignon, le cumin et une pincée de sel, et faire revenir (environ 5-6 min)
