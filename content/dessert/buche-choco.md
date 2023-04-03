@@ -12,7 +12,7 @@ Pour 8 personnes
 
 - 5 blancs d'oeuf
 - 5 jaunes d'oeuf
-- 45 g cacao en pudre
+- 45 g cacao en poudre
 - 1 trait de citron
 
 > Ganache

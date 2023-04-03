@@ -18,7 +18,7 @@ Rating: 5
 - 200 g de lait
 - 5 g de sel fin
 - 1 jaune d'oeuf ou du lait (pour la dorure)
-- des raisins secs, des pepites de chocolat pour la déco
+- des raisins secs, des pépites de chocolat pour la déco
 
 
 ## Préparation

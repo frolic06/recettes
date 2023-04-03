@@ -16,7 +16,7 @@ Rating: 5
 - ail haché (1 c à s)
 - farine
 - 30 g raisins secs
-- 20 g pigons
+- 20 g pignons de pin
 - 3 c à s de persil finement haché
 
 ## Préparation
