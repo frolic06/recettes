@@ -5,7 +5,7 @@ Summary: Recette pour de la confiture de patates douces et pommes.
 Date: 2023-03-19 15:13
 Image: confiture-patata-douce.jpg
 Author: Lilian Besson
-Rating: 4 
+Rating: 5
 
 Recette pour de la confiture de patates douces et pommes.
 
