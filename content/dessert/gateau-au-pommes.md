@@ -1,6 +1,6 @@
 Title: Gâteau aux pommes
 Category: Dessert/Gateaux
-Tags: pomme
+Tags: pomme, noisette
 Summary: Gâteau aux pommes facile
 Date:  2020-10-23 12:42
 Le gâteau aux pommes facile
