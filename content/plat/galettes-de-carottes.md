@@ -9,9 +9,9 @@ Rating: 5
 
 - 10 carottes environ
 - 1 oignon, 1/2 poivron (facultatif)
-- 3 c à s de farine
+- 3 c à s de farine (normale ou pois chiche)
 - 1 petit bouquet de persil
-- 1 petite cuillère de curry (facultatif)
+- 1 petite c à c de curry  ou de pâte de curry rouge (facultatif)
 - 3 oeufs
 - 1 gousse d'ail
 
