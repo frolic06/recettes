@@ -66,6 +66,13 @@ class SearchIndexGenerator:
 
         # keywords = [x for x in keywords if x[-1] != "s" or x[:-1] not in keywords]
         # keywords = sorted(list(keywords))
+        # keywords = [x.replace('é', 'e').replace('è', 'e') for x in index.index.keys()]
+        # keywords = [x for x in index.index.keys()]
+        # keywords = sorted(list(keywords))
+        # keywords = [x for x in keywords if x[:-1] in keywords] # and x[-1] == "s"]
+        # path = os.path.join("c:\\Projets", "keywords.txt")
+        # with open(path, "w") as fd:
+        #     fd.write(dumps(keywords))
 
         recettes = dumps(
             index.documents, cls=RecetteEncoder, ensure_ascii=False
