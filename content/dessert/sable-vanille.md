@@ -1,25 +1,23 @@
 Title: Sablés à la vanille
 Category: Dessert/Petits Gateaux
 Tags: vanille, bredala
-Date:  2020-12-03 17:42
-Summary: Vanille Kipferl (Sablés à la vanille de Christophe Felder)
+Date:  2024-01-08 17:42
+Author: Mam
+Summary: 
 
 ## Ingrédients
-- 35 g de sucre
+- 250 g farine
+- 150 g beurre mou en morceaux
+- 100 g de sucre
+- 1 jaune d'oeuf
 - 1 gousse de vanille
-- 120 g de beurre pommade
-- 140 g de farine
-- 60 g d’amandes en poudre
-- ½ cuillère à café de vanille liquide
-> Finition
-- 50 g de sucre glace
-- 2 sachets de sucre vanillé
+- jaune d'oeuf + 100 g de sucre
 
 ## Préparation
-1. Mixer le sucre et la gousse fendue en 2 et coupée en tronçons (on mixe les graines et la gousse) pour avoir un sucre très vanillé. Passer le sucre obtenu au tamis.
-2. Mélanger avec le beurre.
-3. Ajouter ensuite la farine, la poudre d’amandes et la vanille liquide. Mélanger pour obtenir une boule de pâte homogène.
-4. La diviser en 4 morceaux, fariner le plan de travail, et rouler la pâte en 4 boudins réguliers et les découper en losange.
-5. Les déposer sur une plaque recouverte de papier sulfurisé.
-6. Cuire dans un four préchauffé à 170 C durant 15 min.
-7. Laisser refroidir complètement avant de les passer dans le mélange sucre glace/sucre vanillé.
+1. Fendre la gousse et gratter les graines au couteau
+2. Mélanger les graines de vanille, sucre, beurre et jaune d'oeuf jusqu'à obtenir un mélange crémeux
+3. Ajouter farine et sabler le mélange entre les mains
+4. Sur une surface farinée, former 2 boudins de pâte (environ 3 cm de diamètre) et mettre 30 min au frigo
+5. Badigeonner chaque boudin avec le jaune d'oeuf et les rouler dans le sucre cristal
+6. Couper chaque boudin en tranche (7-8 mm d'épaisseur), déposer sur une plaque (attention, ça gonfle à la cuisson) et faire cuire 10 à 12 min à 180°C (200°C si chaleur tournante). Ils doivent rester clairs, 'blancs'.
+7. Refroidir sur une plaque

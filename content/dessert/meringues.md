@@ -8,13 +8,12 @@ Image: meringues.jpg
 
 ## Ingrédients
 - 4 blancs d’œufs
-- 200 g sucre en poudre 
+- 200 g sucre en poudre (ou 125 g sucre en poudre, 125 g sucre glace)
+- optionel: 1 gousse de vanille ou de la fleur d'oranger
 
 ## Préparation
 1. Sortir les œufs un quart d’heure avant de les utiliser
-2. Monter les œufs en neige ferme au batteur
-Ajouter petit à petit le sucre en continuant à battre les œufs
-3. Préchauffer le four à 120 degrés 
-4. Déposer des petits tas sur une plaque de four. Faire cuire une heure en évitant s’ouvrir le four (chaleur conventionnelle)
-
-On peut parfumer avec de la fleur d’oranger, ou de la vanille
+2. Monter les œufs en neige ferme au batteur avec 1 à s de sucre en poudre (et les graines de la vanille).
+Ajouter le reste de sucre en poudre à la fin, tout en fouettant. Puis le sucre glace, en mélangeant délicatement.
+3. Préchauffer le four à 110 °C 
+4. Déposer des petits tas sur une plaque de four. Enfourner et laisser cuire 10 min puis baisser la température à 95°C et poursuivre la cuisson pendant 3h. Laisser si possible les meringues toute la nuit dans le four, porte ouverte
