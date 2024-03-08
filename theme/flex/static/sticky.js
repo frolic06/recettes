@@ -12,7 +12,7 @@ function onScroll() {
       sticky = navbar.offsetTop;
     }
 
-    if (window.pageYOffset >= sticky) {
+    if (window.scrollY >= sticky) {
       navbar.classList.add("sticky");
     } else {
       navbar.classList.remove("sticky");
@@ -38,7 +38,20 @@ function addClassForFav() {
     if (index >= 0) {
       addClass();
     }
-  } 
+  }
+  if (theArticle && theArticle.title) {
+    let myHisto = localStorage.getItem('my-histo');
+    let histo = (myHisto) ? JSON.parse(myHisto) : [];
+    const index = histo.findIndex(f => f.title === theArticle.title);
+    if (index !== -1) {
+      histo.splice(index, 1);
+    } else if (histo.length >= 10) {
+      histo.pop();
+    }
+    histo.unshift(theArticle);
+
+    localStorage.setItem('my-histo', JSON.stringify(histo));
+  }
 }
 
 function addFav() {
