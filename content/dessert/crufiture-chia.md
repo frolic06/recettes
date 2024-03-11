@@ -1,5 +1,5 @@
 Title: Crufiture aux graines de chia
-Category: Dessert/Confiture
+Category: Dessert/Confitures
 Tags: chia
 Date:  2023-11-02 19:44
 Summary: 
