@@ -14,29 +14,42 @@ function autocomplete(inp, search_index, recettes) {
         a.setAttribute("id", this.id + "autocomplete-list");
         a.setAttribute("class", "autocomplete-items");
         this.parentNode.appendChild(a);
-        const ids = new Set();
+        const map = new Map();
         for (const key of Object.keys(search_index)) {
             for (val of values) {
                 if (key.includes(val)) {
                     for (const index of search_index[key]) {
-                        if (ids.has(index)) {
-                            continue;
+                        if (map.has(index)) {
+                            const item = map.get(index);
+                            if (!item.matchs.includes(val)) {
+                                item.matchs.push(val);
+                            }
+                        } else {
+                            map.set(index, { 
+                                title: recettes[index].title,
+                                url: recettes[index].url,
+                                matchs: [val]
+                            });
                         }
-                        ids.add(index);
-                        b = document.createElement("DIV");
-                        let title = recettes[index].title.replace(val, stabilo(val))
-                        const capitalized = val.charAt(0).toUpperCase() + val.slice(1);
-                        title = title.replace(capitalized, stabilo(capitalized))
-                        b.innerHTML += "<a href=\"/" + recettes[index].url + "\">" + title + '</a>';
-                        b.innerHTML += "<input type='hidden' value='/" + recettes[index].url + "'>";
-                        b.addEventListener("click", function(e) {
-                            window.location.href = this.getElementsByTagName("input")[0].value;
-                            closeAllLists();
-                        });
-                        a.appendChild(b);
                     }
                 }
             }
+        }
+        for (const value of map.values()) {
+            b = document.createElement("DIV");
+            let title = value.title;
+            for (match of value.matchs) {
+                title = title.replace(match, stabilo(match));
+                const capitalized = match.charAt(0).toUpperCase() + match.slice(1);
+                title = title.replace(capitalized, stabilo(capitalized))
+            }
+            b.innerHTML += "<a href=\"/" + value.url + "\">" + title + '</a>';
+            b.innerHTML += "<input type='hidden' value='/" + value.url + "'>";
+            b.addEventListener("click", function(e) {
+                window.location.href = this.getElementsByTagName("input")[0].value;
+                closeAllLists();
+            });
+            a.appendChild(b);
         }
     });
     inp.addEventListener("keydown", function (e) {
