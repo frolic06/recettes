@@ -4,10 +4,11 @@ function autocomplete(inp, search_index, recettes) {
     }
     var currentFocus;
     inp.addEventListener("input", function (e) {
-        var a, b, i, val = this.value;
+        var a, b, val = this.value;
         closeAllLists();
         if (!val) { return false; }
-        val = val.toLowerCase();
+        val = val.toLowerCase().trim();
+        const values = val.split(' ')
         currentFocus = -1;
         a = document.createElement("DIV");
         a.setAttribute("id", this.id + "autocomplete-list");
@@ -15,23 +16,25 @@ function autocomplete(inp, search_index, recettes) {
         this.parentNode.appendChild(a);
         const ids = new Set();
         for (const key of Object.keys(search_index)) {
-            if (key.includes(val)) {
-                for (const index of search_index[key]) {
-                    if (ids.has(index)) {
-                        continue;
+            for (val of values) {
+                if (key.includes(val)) {
+                    for (const index of search_index[key]) {
+                        if (ids.has(index)) {
+                            continue;
+                        }
+                        ids.add(index);
+                        b = document.createElement("DIV");
+                        let title = recettes[index].title.replace(val, stabilo(val))
+                        const capitalized = val.charAt(0).toUpperCase() + val.slice(1);
+                        title = title.replace(capitalized, stabilo(capitalized))
+                        b.innerHTML += "<a href=\"/" + recettes[index].url + "\">" + title + '</a>';
+                        b.innerHTML += "<input type='hidden' value='/" + recettes[index].url + "'>";
+                        b.addEventListener("click", function(e) {
+                            window.location.href = this.getElementsByTagName("input")[0].value;
+                            closeAllLists();
+                        });
+                        a.appendChild(b);
                     }
-                    ids.add(index);
-                    b = document.createElement("DIV");
-                    let title = recettes[index].title.replace(val, stabilo(val))
-                    const capitalized = val.charAt(0).toUpperCase() + val.slice(1);
-                    title = title.replace(capitalized, stabilo(capitalized))
-                    b.innerHTML += "<a href=\"/" + recettes[index].url + "\">" + title + '</a>';
-                    b.innerHTML += "<input type='hidden' value='/" + recettes[index].url + "'>";
-                    b.addEventListener("click", function(e) {
-                        window.location.href = this.getElementsByTagName("input")[0].value;
-                        closeAllLists();
-                    });
-                    a.appendChild(b);
                 }
             }
         }
