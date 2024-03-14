@@ -15,8 +15,8 @@ class Recette:
         self.url = url
         self.title = title
 
-    def analyze(self, html_doc):
-        text = get_ingredient(html_doc, self.title)
+    def analyze(self, html_doc: str, tags: str):
+        text = get_ingredient(html_doc, self.title, tags)
         return get_words(text)
 
 
@@ -25,10 +25,10 @@ class Index:
         self.index = {}
         self.documents = []
 
-    def index_document(self, document: Recette, content):
+    def index_document(self, document: Recette, content: str, tags: str):
         self.documents.append(document)
 
-        for token in document.analyze(content):
+        for token in document.analyze(content, tags):
             if token not in self.index:
                 self.index[token] = []
             self.index[token].append(document.ID)
@@ -61,18 +61,9 @@ class SearchIndexGenerator:
         i = 0
         for page in pages:
             recette = Recette(i, page.url, page.title)
-            index.index_document(recette, page.content)
+            tags = [tag.name for tag in page.tags] if hasattr(page, "tags") else []
+            index.index_document(recette, page.content, ", ".join(tags))
             i += 1
-
-        # keywords = [x for x in keywords if x[-1] != "s" or x[:-1] not in keywords]
-        # keywords = sorted(list(keywords))
-        # keywords = [x.replace('é', 'e').replace('è', 'e') for x in index.index.keys()]
-        # keywords = [x for x in index.index.keys()]
-        # keywords = sorted(list(keywords))
-        # keywords = [x for x in keywords if x[:-1] in keywords] # and x[-1] == "s"]
-        # path = os.path.join("c:\\Projets", "keywords.txt")
-        # with open(path, "w") as fd:
-        #     fd.write(dumps(keywords))
 
         recettes = dumps(
             index.documents, cls=RecetteEncoder, ensure_ascii=False

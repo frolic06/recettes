@@ -24,9 +24,9 @@ def basic_stemming(word):
     else:
         return word
 
-def get_ingredient(html_doc: str, title: str) -> str:
+def get_ingredient(html_doc: str, title: str, tags: str) -> str:
     soup = BeautifulSoup(html_doc, 'html.parser')
-    text = title
+    text = title + ' ' + tags
     for sibling in soup.find(name="h2").next_siblings:
         if sibling.text == 'Préparation':
             break
