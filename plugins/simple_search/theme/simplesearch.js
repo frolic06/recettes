@@ -36,20 +36,22 @@ function autocomplete(inp, search_index, recettes) {
             }
         }
         for (const value of map.values()) {
-            b = document.createElement("DIV");
-            let title = value.title;
-            for (match of value.matchs) {
-                title = title.replace(match, stabilo(match));
-                const capitalized = match.charAt(0).toUpperCase() + match.slice(1);
-                title = title.replace(capitalized, stabilo(capitalized))
+            if (value.matchs.length === values.length) {
+                b = document.createElement("DIV");
+                let title = value.title;
+                for (match of value.matchs) {
+                    title = title.replace(match, stabilo(match));
+                    const capitalized = match.charAt(0).toUpperCase() + match.slice(1);
+                    title = title.replace(capitalized, stabilo(capitalized))
+                }
+                b.innerHTML += "<a href=\"/" + value.url + "\">" + title + '</a>';
+                b.innerHTML += "<input type='hidden' value='/" + value.url + "'>";
+                b.addEventListener("click", function(e) {
+                    window.location.href = this.getElementsByTagName("input")[0].value;
+                    closeAllLists();
+                });
+                a.appendChild(b);
             }
-            b.innerHTML += "<a href=\"/" + value.url + "\">" + title + '</a>';
-            b.innerHTML += "<input type='hidden' value='/" + value.url + "'>";
-            b.addEventListener("click", function(e) {
-                window.location.href = this.getElementsByTagName("input")[0].value;
-                closeAllLists();
-            });
-            a.appendChild(b);
         }
     });
     inp.addEventListener("keydown", function (e) {
