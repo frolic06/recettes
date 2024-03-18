@@ -2,8 +2,9 @@ Title: La fougasse mentonnaise
 Category: Dessert/Gateaux
 Tags: menton
 Date: 2024-03-11 15:17
+Image: fougasse-menton.jpg
 Summary: 
-Rating:
+Rating: 5
 
 ## Ingédients
 
