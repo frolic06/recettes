@@ -5,8 +5,7 @@ Date: 2024-03-11 15:15
 Summary: 
 Rating: -1 
 
-## Ingédients
-
+## Ingrédients
 - 100 g de beurre mou
 - 1 oeuf
 - 120 g de sucre fin pour la pâte

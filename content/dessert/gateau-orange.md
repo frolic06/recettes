@@ -5,8 +5,7 @@ Date: 2024-03-11 15:16
 Summary: 
 Rating: -1 
 
-## Ingédients
-
+## Ingrédients
 - 250 g de farine
 - 150 g de sucre fin
 - 150 g de beurre

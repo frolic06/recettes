@@ -6,8 +6,7 @@ Image: fougasse-menton.jpg
 Summary: 
 Rating: 5
 
-## Ingédients
-
+## Ingrédients
 - 500 g de farine
 - 100 g de sucre en poudre à fondre dans le vin tiède
 - 50 g de poudre d’amande
