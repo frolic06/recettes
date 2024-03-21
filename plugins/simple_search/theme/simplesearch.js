@@ -28,6 +28,7 @@ function autocomplete(inp, search_index, recettes) {
                             map.set(index, { 
                                 title: recettes[index].title,
                                 url: recettes[index].url,
+                                image: recettes[index].image,
                                 matchs: [val]
                             });
                         }
@@ -44,8 +45,12 @@ function autocomplete(inp, search_index, recettes) {
                     const capitalized = match.charAt(0).toUpperCase() + match.slice(1);
                     title = title.replace(capitalized, stabilo(capitalized))
                 }
-                b.innerHTML += "<a href=\"/" + value.url + "\">" + title + '</a>';
-                b.innerHTML += "<input type='hidden' value='/" + value.url + "'>";
+                const image = value.image ? `<img class="search-image" src="/images/${value.image}">` : '';
+                if (value.image) {
+                    b.setAttribute("class", "autocomplete-items-image");
+                }
+                b.innerHTML += `<a href=\"/${value.url}\">${image}${title}</a>`;
+                b.innerHTML += `<input type='hidden' value='/${value.url}'>`;
                 b.addEventListener("click", function(e) {
                     window.location.href = this.getElementsByTagName("input")[0].value;
                     closeAllLists();

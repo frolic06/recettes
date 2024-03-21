@@ -10,10 +10,11 @@ logger = logging.getLogger(__name__)
 
 
 class Recette:
-    def __init__(self, ID, url, title) -> None:
+    def __init__(self, ID, url, title, image) -> None:
         self.ID = ID
         self.url = url
         self.title = title
+        self.image = image
 
     def analyze(self, html_doc: str, tags: str):
         text = get_ingredient(html_doc, self.title, tags)
@@ -60,7 +61,7 @@ class SearchIndexGenerator:
         # Generate list of articles and pages to index
         i = 0
         for page in pages:
-            recette = Recette(i, page.url, page.title)
+            recette = Recette(i, page.url, page.title, page.image if hasattr(page, "image") else None)
             tags = [tag.name for tag in page.tags] if hasattr(page, "tags") else []
             index.index_document(recette, page.content, ", ".join(tags))
             i += 1
