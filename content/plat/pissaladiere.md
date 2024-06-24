@@ -10,26 +10,25 @@ Date: 2020-12-01 17:42
 > Pâte à pain:
 
 - 250 g de farine
-- 75 g d’eau
+- 12 cl d’eau
 - 5 g de sel
 - 8 g de levure fraîche de boulanger
-- 50 g d’huile d’olive
+- 12 cl d’huile d’olive
 
 > Confit d’oignons:
 
-- 1 kg d’oignons
-- 50 ml d’huile d’olive
-- 4 filets d'anchois 
-- 1 bouquet garni (origan + thym)
+- 500 g d’oignons
+- 12 cl d’huile d’olive
+- crême d'anchois (ou pissalat)
+- poivre, sel
 
 > Décoration
 
-- 25 g d’olives de Nice
-- 25 g d’anchois au sel
-- petites feuilles de basilic
+- 12 olives de Nice
+- 10 anchois
 
 ## Préparation
-1. Epluchez les oignons, émincez-les finement et mettez-les dans une grosse casserole avec l’huile d’olive et le bouquet garni. Salez, poivrez, couvrez et laissez cuire à feu doux pendant 45 minutes. Ajouter les filets d'anchois en cours de cuisson.
+1. Epluchez les oignons, émincez-les finement et mettez-les dans une grosse casserole avec l’huile d’olive et le bouquet garni. Salez, poivrez, couvrez et laissez cuire à feu doux pendant une heure. Ajouter la crême d'anchois en cours de cuisson.
 
 2. Préparer le levain : sur un plan de travail ou dans un cul de poule, mettez 60 g de farine, y creuser une fontaine et ajouter la levure délayée dans un peu d’eau tiède. Mélangez le tout pour obtenir une boule de pâte et laissez-la reposer recouverte d’un linge. En une demi-heure, la pâte doit doubler de volume.
 
