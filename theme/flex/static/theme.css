@@ -113,7 +113,7 @@ aside div img {
 .btn {
     background-color: transparent;
     border: none;
-    color: white;
+    color: rgb(161, 161, 161);
     padding: 4px;
     font-size: 16px;
     cursor: pointer;
