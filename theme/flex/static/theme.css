@@ -121,3 +121,34 @@ aside div img {
 .favorite {
     color: #ff5a09;
 }
+
+ol {
+    list-style-type: none;
+    padding-left: 0;
+    counter-reset: step-counter;
+}
+
+ol li {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+ol li::before {
+    content: counter(step-counter);
+    counter-increment: step-counter;
+    font-size: 2rem;
+    color: rgb(217, 65, 30);
+    margin-right: 40px;
+}
+
+ol li::after {
+    content: '';
+    position: absolute;
+    left: 32px;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background-color: rgb(217, 65, 30);
+}
