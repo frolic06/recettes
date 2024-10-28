@@ -17,7 +17,7 @@ Date:  2024-05-03 19:00
 - 1 cube de bouillon
 - 1 c à s de crème fraiche épaisse
 - poivre
-- ciboulette ciselée (poour servir)
+- ciboulette ciselée (pour servir)
 
 ## Préparation
 
